@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bus Route Chatbot</title>
+</head>
+<body>
+    <h1>Ask about bus routes</h1>
+    <input type="text" id="query" placeholder="Where do you want to go?" size="50" />
+    <button onclick="sendQuery()">Ask</button>
+    <div id="answer"></div>
+
+    <script>
+        async function sendQuery() {
+            const query = document.getElementById("query").value;
+            const response = await fetch("/chat", {
+                method: "POST",
+                headers: {"Content-Type": "application/json"},
+                body: JSON.stringify({query})
+            });
+            const data = await response.json();
+            document.getElementById("answer").innerText = data.answer;
+        }
+    </script>
+</body>
+</html>
