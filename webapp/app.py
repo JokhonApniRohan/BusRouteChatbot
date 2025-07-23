@@ -1,14 +1,17 @@
 from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
+import sys
 import os
 from dotenv import load_dotenv
-
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from rag_pipeline.loader import load_and_split_documents
 from rag_pipeline.embedder import create_vector_store
 from rag_pipeline.rag import build_qa_chain
 
-load_dotenv()  # Load environment variables from .env
+
+
+load_dotenv()  # ✅ Loads .env values like GROQ_API_KEY
 
 app = FastAPI()
 templates = Jinja2Templates(directory="webapp/templates")
@@ -17,13 +20,12 @@ templates = Jinja2Templates(directory="webapp/templates")
 docs = load_and_split_documents("data/bus_routes.md")
 vector_store = create_vector_store(docs)
 
-# Get HuggingFace Hub API token from environment variables
-huggingface_token = os.getenv("HUGGINGFACEHUB_API_TOKEN")
-if huggingface_token is None:
-    raise ValueError("HUGGINGFACEHUB_API_TOKEN not set in environment")
+# ✅ Check for GROQ API key from env
+if not os.getenv("GROQ_API_KEY"):
+    raise ValueError("GROQ_API_KEY is not set in .env file")
 
-# Build the QA chain with the token passed in
-qa_chain = build_qa_chain(vector_store, huggingfacehub_api_token=huggingface_token)
+# Build QA chain using the vector store
+qa_chain = build_qa_chain(vector_store)
 
 @app.get("/", response_class=HTMLResponse)
 async def get_home(request: Request):
