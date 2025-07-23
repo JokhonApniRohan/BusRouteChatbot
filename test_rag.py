@@ -20,5 +20,6 @@ def main():
     print("Q:", query)
     print("A:", answer)
 
-if __name__ == "__main__":
-    main()
+while True:
+    if __name__ == "__main__":
+        main()
