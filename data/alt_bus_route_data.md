@@ -1,0 +1,791 @@
+Achim Paribahan (অছিম পরিবহন) Route: Gabtoli ⇄ Technical ⇄ Ansar Camp ⇄
+Mirpur 1 ⇄ Sony Cinema Hall ⇄ Mirpur 2 ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄ Purobi
+⇄ Kalshi ⇄ ECB Square ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄ Jamuna Future
+Park ⇄ Bashundhara ⇄ Nadda ⇄ Notun Bazar ⇄ Bashtola ⇄ Shahjadpur ⇄ Uttar
+Badda ⇄ Badda -- Madhya Badda ⇄ Merul ⇄ Rampura Bridge ⇄ Banasree ⇄
+Demra Staff Quarter Type: Semi-Sitting Service (Check System) Time: 6
+AM - 12 PM Active Paribahan Bus (এক্টিভ পরিবহন) Route: Shia Masjid ⇄
+Adabor ⇄ Shyamoli ⇄ Technical ⇄ Ansar Camp ⇄ Mirpur 1 ⇄ Sony Hall ⇄
+Mirpur 2 ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄ Purobi ⇄ Kalshi ⇄ ECB Square ⇄ MES ⇄
+Shewrapara ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄ Jashimuddin ⇄
+Rajlakshmi ⇄ Azampur ⇄ House Building ⇄ Abdullahpur Agradut Bus
+(অগ্রদূত) Route: Savar ⇄ Hemayetpur ⇄ Amin Bazar ⇄ Gabtoli ⇄ Technical ⇄
+Kallyanpur ⇄ Shyamoli ⇄ Shishu Mela ⇄ Agargaon ⇄ Zia Uddyan ⇄ Bijoy
+Sarani ⇄ Jahangir Gate ⇄ Mohakhali ⇄ Wireless ⇄ Gulshan 1 ⇄ Badda Link
+Road ⇄ Bashtola ⇄ Shahjadpur ⇄ Uttar Badda ⇄ Notun Bazar Airport
+Bangabandhu Avenue (এয়ারপোর্ট বঙ্গবন্ধু এভিনিউ ট্রান্সপোর্ট) Route:
+Fulbaria ⇄ Golap Shah Mazar ⇄ GPO ⇄ Paltan ⇄ Press Club ⇄ High Court ⇄
+Matsya Bhaban ⇄ Shahbag ⇄ Bangla Motor ⇄ Kawran Bazar ⇄ Farmgate ⇄ Bijoy
+Sarani ⇄ Jahangir Gate ⇄ Mohakhali ⇄ Chairman Bari ⇄ Sainik Club ⇄
+Banani ⇄ Kakali ⇄ Staff Road ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄
+Khilkhet ⇄ Airport ⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House
+Building ⇄ Abdullahpur Azmeri Glory Bus (আজমেরী গ্লোরী) Route: Sadarghat
+⇄ Ray Saheb Bazar ⇄ Naya Bazar ⇄ Golap Shah Mazar ⇄ GPO ⇄ Paltan ⇄
+Kakrail ⇄ Shantinagar ⇄ Malibagh Moor ⇄ Mouchak ⇄ Nabisco ⇄ Mohakhali ⇄
+Sainik Club ⇄ Banani ⇄ Kakali ⇄ Staff Road ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa
+Road ⇄ Khilkhet ⇄ Airport ⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur
+⇄ House Building ⇄ Abdullahpur ⇄ Tongi ⇄ Station Road ⇄ Mill Gate ⇄
+Board Bazar ⇄ Gazipur Bypass ⇄ Konabari ⇄ Chandra Ajmi Bus (আজমী বাস)
+Route: Dhamrai ⇄ Savar ⇄ Hemayetpur ⇄ Aminbazar ⇄ Gabtoli ⇄ Technical ⇄
+Kallyanpur ⇄ Shyamoli ⇄ Shishu Mela ⇄ College Gate ⇄ Asad gate ⇄
+Dhanmondi 27 ⇄ Dhanmondi 32 ⇄ Kalabagan ⇄ City College ⇄ New Market ⇄
+Nilkhet ⇄ Azimpur ⇄ Bakshi Bazar ⇄ Gulistan ⇄ Chittagong Road Akash Bus
+(আকাশ বাস) Route: Kadamtali ⇄ Keraniganj ⇄ Babubazar ⇄ Naya Bazar ⇄
+Golap Shah Mazar ⇄ GPO ⇄ Paltan ⇄ Kakrail ⇄ Shantinagar ⇄ Malibagh Moor
+⇄ Mouchak ⇄ Malibagh Railgate ⇄ Hazipara ⇄ Rampura Bazar ⇄ Rampura
+Bridge ⇄ Merul ⇄ Badda ⇄ Shahjadpur ⇄ Bashtola ⇄ Notun Bazar ⇄ Nadda ⇄
+Bashundhara ⇄ Jamuna Future Park ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄
+Airport ⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄
+Abdullahpur ⇄ Tongi Akik Bus (আকিক বাস) Route: Ansar Camp ⇄ Mirpur 1 ⇄
+Sony Cinema Hall ⇄ Mirpur 2 ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄ Purobi ⇄ Kalshi ⇄
+ECB Square ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄ Jamuna Future Park ⇄
+Bashundhara ⇄ Nadda ⇄ Notun Bazar ⇄ Bashtola ⇄ Shahjadpur ⇄ Uttar Badda
+Al Makka Bus (আল মক্কা বাস) Route: Motijheel -- Gulistan -- GPO --
+Paltan -- Kakrail -- Shantinagar -- Malibagh Moor -- Mouchak -- Mogbazar
+-- Nabisco -- Mohakhali -- Chairman Bari -- Kakali -- Banani -- ECB
+Square -- Kalshi -- Purobi -- Mirpur 10 -- Mirpur 2 -- Mirpur 1 Al
+Madina Plus One Bus (আল মনিদা প্লাস ওয়ান) Route: Nandan Park ⇄ Zirani
+Bazar ⇄ Baipayl ⇄ Nobinagar ⇄ Savar ⇄ Hemayetpur ⇄ Amin Bazar ⇄ Gabtoli
+⇄ Technical ⇄ Kallyanpur ⇄ Shyamoli ⇄ Shishu Mela ⇄ College Gate ⇄ Asad
+Gate ⇄ Khamar Bari ⇄ Farmgate ⇄ Kawran Bazar ⇄ Bangla Motor ⇄ Shahbag ⇄
+High Court ⇄ Press Club ⇄ Paltan ⇄ GPO ⇄ Gulistan ⇄ Motijheel ⇄
+Kamalapur Alif Bus (আলিফ বাস) Route: Mirpur 14 ⇄ Mirpur 10 ⇄ Mirpur 2 ⇄
+Sony Cenema Hall ⇄ Mirpur 1 ⇄ Mazar Road ⇄ Konabari ⇄ Rupnagar ⇄
+Beribadh ⇄ Birulia ⇄ Ashulia ⇄ Zirabo ⇄ Fantasy Kingdom ⇄ Dhaka EPZ Alif
+Bus (আলিফ বাস) Route: Shia Mosque ⇄ Japan Garden City ⇄ Adabor ⇄
+Shyamoli ⇄ Shishu Mela ⇄ Agargaon ⇄ Zia Uddyan ⇄ Bijoy Sarani ⇄ Jahangir
+Gate ⇄ Mohakhali ⇄ Wireless ⇄ Gulshan 1 ⇄ Badda Link Road ⇄ Madhya Badda
+⇄ Merul ⇄ Rampura Bridge ⇄ Banasree Alif Bus (আলিফ বাস) Route: Mirpur 1
+⇄ Mirpur 2 ⇄ Mirpur 10 ⇄ Kazipara ⇄ Shewrapara ⇄ Agargaon ⇄ Bijoy Sarani
+⇄ Jahangir Gate ⇄ Mohakhali ⇄ Wireless ⇄ Gulshan 1 ⇄ Badda Link Road ⇄
+Madhya Badda ⇄ Merul ⇄ Rampura Bridge ⇄ Banasree Alif Bus (আলিফ বাস)
+Route: Japan Garden City ⇄ Ring Road ⇄ Adabor ⇄ Shyamoli ⇄ Shishu Mela ⇄
+Agargaon ⇄ Zia Uddyan ⇄ Bijoy Sarani ⇄ Old Airport ⇄ Jahangir Gate ⇄
+Mohakhali ⇄ Chairman Bari ⇄ Sainik Club ⇄ kakali ⇄ Banani ⇄ Staff Road ⇄
+MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄ Jashimuddin
+(Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄ Abdullahpur Anabil
+Super (অনাবিল সুপার) Route: Sign Board ⇄ Shonir Akhra ⇄ Jatrabari ⇄
+Sayedabad ⇄ Mugdapara ⇄ Bashabo ⇄ Khilgaon ⇄ Malibagh Railgate ⇄
+Hazipara ⇄ Rampura Bazar ⇄ Rampura Bridge ⇄ Merul ⇄ Badda ⇄ Uttar Badda
+⇄ Shahjadpur ⇄ Bashtola -⇄ Notun Bazar ⇄ Nadda ⇄ Bashundhara ⇄ Jamuna
+Future Park ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄ Jashimuddin
+(Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄ Abdullahpur ⇄ Tongi ⇄
+Station Road ⇄ Mill Gate ⇄ Board Bazar ⇄ Gazipur Bypass ⇄ Gazipur
+Chourasta Type: Sitting Service (Check System) Arnob Bus (অরনব বাস)
+Route: Hemayetpur -- Amin Bazar ⇄ Gabtoli ⇄ Technical ⇄ Kallyanpur ⇄
+Shyamoli ⇄ Shishu Mela ⇄ Agargaon ⇄ Zia Uddyan ⇄ Bijoy Sarani ⇄ Jahangir
+Gate ⇄ Mohakhali ⇄ Wireless ⇄ Gulshan 1 ⇄ Badda Link Road ⇄ Madhya Badda
+⇄ Merul ⇄ Rampura Bridge ⇄ Banasree ⇄ Demra Staff Quarter Ashirbad
+Pahibahan (আশীর্বাদ পরিবহন) Route: Duaripara ⇄ Rupnagar Abashik ⇄ Shiyal
+Bari ⇄ Proshika Moor ⇄ Mirpur 2 ⇄ Mirpur 1 ⇄ Ansar Camp ⇄ Technical ⇄
+Kallyanpur ⇄ Shyamoli ⇄ Shishu Mela ⇄ College Gate ⇄ Asad Gate ⇄
+Dhanmondi 27 ⇄ Shukrabad ⇄ Dhanmondi 32 ⇄ Kalabagan ⇄ City College ⇄ New
+Market ⇄ Nilkhet ⇄ Azimpur Ashulia Classic (আশুলিয়া ক্লাসিক বাস) Route:
+Nobinagar ⇄ Baipayl ⇄ Jamgora ⇄ Fantasy Kingdom ⇄ Zirabo ⇄ Ashulia Bazar
+⇄ Kamarpara ⇄ Abdullahpur ⇄ House Building ⇄ Azampur ⇄ Rajlakshmi ⇄
+Jashimuddin (Uttara) ⇄ Airport ⇄ Khilkhet ⇄ Kuril Bishwa Road ⇄ Shewra ⇄
+MES ⇄ Kakali ⇄ Banani ⇄ Chairman Bari ⇄ Mohakhali ⇄ Nabisco ⇄ Sat rasta
+Asmani Bus (আসমানী বাস) Route: Dhour ⇄ Abdullahpur ⇄ House Building ⇄
+Azampur ⇄ Rajlakshmi ⇄ Jashimuddin (Uttara) ⇄ Airport ⇄ Khilkhet ⇄ Kuril
+Bishwa Road ⇄ Jamuna Future Park ⇄ Bashundhara ⇄ Nadda ⇄ Notun Bazar ⇄
+Bashtola ⇄ Shahjadpur ⇄ Uttar Badda ⇄ Badda ⇄ Madhya Badda ⇄ Merul ⇄
+Rampura Bridge ⇄ Banasree ⇄ Demra Staff Quarter ⇄ Tarabo ⇄ Madanpur ATCL
+Bus (এটিসিএল বাস) Route: Mohammadpur Bus Stand ⇄ Asad Gate ⇄ Shukrabad ⇄
+Kalabagan City College ⇄ Science Lab -- Katabon ⇄ Bata Signal ⇄ Shahbag
+⇄ Matsya Bhaban ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄ GPO ⇄ Gulistan ⇄
+Arambagh Notre Dame College Ayat Bus (আয়াত বাস) Route: Chiriyakhana ⇄
+Sony Cinema Hall ⇄ Mirpur 2 ⇄ Mirpur 10 ⇄ Kazipara ⇄ Shewrapara ⇄
+Taltola ⇄ Agargaon ⇄ Khamar Bari ⇄ Farmgate ⇄ Kawran Bazar ⇄ Bangla
+Motor ⇄ Mogbazar ⇄ Mouchak ⇄ Malibagh Moor ⇄ Rajarbag ⇄ Kamalapur Type:
+Semi-Sitting Service Bahon Bus (বাহন বাস) Route: Mirpur 14 ⇄ Mirpur 10 ⇄
+Mirpur 2 ⇄ Mirpur 1 ⇄ Ansar Camp ⇄ Bangla College ⇄ Technical ⇄
+Darussalam ⇄ Kallyanpur ⇄ Shyamoli ⇄ Asad Gate ⇄ Dhanmondi 27 ⇄
+Dhanmondi 32 Kalabagan ⇄ Science Lab ⇄ Katabon ⇄ Shahbag ⇄ High Court ⇄
+Press Club ⇄ Paltan ⇄ Dainik Bangla Moor ⇄ Motijheel ⇄ Arambagh ⇄
+Kamlapur -- Mugdapara ⇄ Bashabo ⇄ Khilgaon Type: Semi-Sitting Service
+(Check System) Time: 6 AM - 11 PM Baishakhi Bus (বৈশাখী বাস) Route:
+Savar ⇄ Hemayetpur ⇄ Amin Bazar ⇄ Gabtoli ⇄ Technical ⇄ Kallyanpur ⇄
+Shyamoli ⇄ Shishu Mela ⇄ Agargaon ⇄ Bijoy Sarani ⇄ Jahangir Gate ⇄
+Mohakhali ⇄ Gulshan 1 ⇄ Badda Link Road ⇄ Bashtola ⇄ Uttar Badda ⇄ Notun
+Bazar Balaka Bus (বলাকা বাস) Route: Sayedabad ⇄ Manik Nagar ⇄ TT Para --
+Kamalapur ⇄ Malibagh Moor ⇄ Mouchak ⇄ Mogbazar ⇄ Satrasta ⇄ Nabisco ⇄
+Mohakhali ⇄ Chairman Bari ⇄ Banani ⇄ Kakali ⇄ Staff Road ⇄ MES ⇄ Shewra
+⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄ Jashimuddin (Uttara) ⇄
+Rajlakshmi ⇄ Azampur ⇄ House Building ⇄ Abdullahpur ⇄ Tongi ⇄ Station
+Road ⇄ Mill Gate ⇄ Board Bazar ⇄ Gazipur Bypass ⇄ Gazipur Chourasta
+Type: Semi-Sitting Service Basumati (বাসুমতি বাস) Route: Gabtoli ⇄
+Technical ⇄ Kallyanpur ⇄ Shyamoli ⇄ Shishu Mela ⇄ College Gate ⇄ Asad
+Gate ⇄ Manik Mia Avenue ⇄ Khamar Bari ⇄ Farmgate ⇄ Kawran Bazar ⇄ Bangla
+Motor Shahbag ⇄ Matsya Bhaban ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄ GPO ⇄
+Golap Shah Mazar ⇄ Naya Bazar ⇄ Babubazar ⇄ Keraniganj ⇄ Maowa Basumati
+Transport (বাসুমতি ট্রান্সপোর্ট) Route: Gabtoli -- Mirpur 1 ⇄ Sony
+Cinema Hall ⇄ Mirpur 2 ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄ Purobi ⇄ Kalshi ⇄ ECB
+Square ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄
+Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄
+Abdullahpur ⇄ Tongi ⇄ Station Road ⇄ Mill Gate ⇄ Board Bazar ⇄ Gazipur
+Chourasta Best Satabdi (বেষ্ট শতাব্দী এসি বাস) Route: Azimpur ⇄ Nilkhet
+⇄ New Market ⇄ City College ⇄ Kalabagan ⇄ Dhanmondi 32 ⇄ Dhanmondi 27 ⇄
+Khamar Bari ⇄ Farmgate ⇄ Jahangir Gate ⇄ Mohakhali ⇄ Chairman Bari ⇄
+Sainik Club ⇄ Banani ⇄ Kakali ⇄ Staff Road ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa
+Road ⇄ Khilkhet ⇄ Airport ⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur
+⇄ House Building ⇄ Diabari Type: Sitting, AC Bus Best Transport (বেষ্ট
+ট্রান্সপোর্ট বাস) Route: Mirpur 10 ⇄ Kazipara ⇄ Shewrapara ⇄ Taltola ⇄
+Agargaon ⇄ Khamar Bari ⇄ Farmgate ⇄ Kawran Bazar ⇄ Bangla Motor ⇄
+Shahbag ⇄ Matsya Bhaban ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄ GPO ⇄
+Gulistan ⇄ Motijheel ⇄ Ittefaq Moor ⇄ Sayedabad ⇄ Jatrabari Bhuiyan
+Paribahan (ভূঁইয়া পরিবহন) Route: Japan Garden City ⇄ Ring Road ⇄ Adabor
+⇄ Shyamoli ⇄ Shishu Mela ⇄ Agargaon ⇄ Zia Uddyan ⇄ Bijoy Sarani ⇄ Old
+Airport ⇄ Jahangir Gate ⇄ Mohakhali ⇄ Chairman Bari ⇄ Sainik Club ⇄
+Kakali ⇄ Banani ⇄ Staff Road ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄
+Khilkhet ⇄ Airport ⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House
+Building ⇄ Abdullahpur Bihanga Bus (বিহাঙ্গা বাস) Route: Mirpur 12 ⇄
+Mirpur 11 ⇄ Mirpur 10 ⇄ Kazipara ⇄ Shewrapara ⇄ Agargaon ⇄ Bijoy Sarani
+⇄ Jahangir Gate ⇄ Mohakhali ⇄ Wireless ⇄ Gulshan Bridge ⇄ Gulshan 1 ⇄
+Badda ⇄ Notun Bazar Bikalpa Auto Service (বিকল্প বাস অটো সার্ভিস) Route:
+Mirpur 12 ⇄ Pallabi ⇄ Purobi ⇄ Mirpur 11 ⇄ Mirpur 1 ⇄ Kazipara ⇄
+Shewrapara -- Taltola -- Agargaon -- Bijoy Sarani -- Farmgate -- Kawran
+Bazar ⇄ Bangla Motor ⇄ Shahbag ⇄ Matsya Bhaban ⇄ High Court ⇄ Press Club
+⇄ Paltan ⇄ GPO ⇄ Gulistan ⇄ Motijheel Bikalpa City Super Service (বিকল্প
+বাস সিটি সুপার সার্ভিস) Route: Mirpur 12 ⇄ Pallabi ⇄ Purobi ⇄ Mirpur 11
+⇄ Mirpur 10 ⇄ Kazipara ⇄ Shewrapara -- Taltola ⇄ Agargaon ⇄ Shyamoli ⇄
+Shishu Mela ⇄ College Gate ⇄ Asad Gate ⇄ Dhanmondi 27 ⇄ Dhanmondi 32 ⇄
+Kalabagan ⇄ City College ⇄ New Market ⇄ Nilkhet ⇄ Azimpur -- Dhakeshwari
+Bikash Bus (বিকাশ বাস) Route: Azimpur ⇄ Nilkhet ⇄ New Market ⇄ City
+College ⇄ Kalabagan ⇄ Dhanmondi 27 ⇄ Dhanmondi 32 ⇄ Khamar Bari ⇄
+Farmgate ⇄ Jahangir Gate ⇄ Mohakhali ⇄ Sainik Club ⇄ Banani ⇄ Kakali ⇄
+Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄ Abdullahpur ⇄ Kamarpara Bikash
+Paribahan (বিকাশ পরিবহন বাস) Route: Sign Board ⇄ Matuail ⇄ Rayerbag ⇄
+Shonir Akhra ⇄ Jatrabari ⇄ Sayedabad ⇄ Gulistan ⇄ Chankhar Pul ⇄ Bakshi
+Bazar ⇄ Azimpur ⇄ Nilkhet ⇄ New Market ⇄ City College ⇄ Kalabagan ⇄
+Dhanmondi 32 ⇄ Dhanmondi 27 ⇄ Khamar Bari ⇄ Farmgate ⇄ Jahangir Gate ⇄
+Mohakhali ⇄ Chairman Bari ⇄ Sainik Club ⇄ Banani ⇄ Kakali ⇄ Staff Road ⇄
+MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄ Jashimuddin
+(Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄ Abdullahpur ⇄
+Kamarpara -- Bondhu Paribahan (বন্ধু পরিবহন বাস) Route: Gulistan ⇄ GPO ⇄
+Paltan ⇄ Kakrail ⇄ Shantinagar ⇄ Malibagh Moor ⇄ Mouchak ⇄ Malibagh
+Railgate ⇄ Hazipara ⇄ Rampura Bazar ⇄ Rampura Bridge ⇄ Merul ⇄ Badda ⇄
+Shahjadpur ⇄ Bashtola ⇄ Notun Bazar Borak Bus (বোরাক বাস) Route: Palashi
+⇄ Meghna Ghat Bashumoti Bus (বসুমতি বাস) Route: Gazipur Chourasta ⇄
+Tongi ⇄ Airport ⇄ Khilkhet ⇄ Kalshi Pallabi ⇄ Mirpur 11 ⇄ Mirpur 10 ⇄
+Mirpur 1 ⇄ Gabtoli Brihottor Mirpur (বৃহত্তর মিরপুর বাস) Route:
+Chiriyakhana ⇄ Mirpur 1 ⇄ Gabtoli ⇄ Amin Bazar ⇄ Savar ⇄ Nobinagar
+Chandra BRTC Bus (বি আর টিসি বাস) Route: Madanpur ⇄ Kanchpur ⇄
+Chittagong Road ⇄ Sign Board ⇄ Matuail ⇄ Rayerbag ⇄ Shonir Akhra ⇄
+Jatrabari ⇄ Sayedabad ⇄ Gulistan ⇄ GPO ⇄ Paltan ⇄ Press Club ⇄ High
+Court ⇄ Matsya Bhaban ⇄ Shahbag ⇄ Bangla Motor ⇄ Kawran Bazar ⇄ Farmgate
+⇄ Khamar Bari ⇄ Asad Gate ⇄ College Gate ⇄ Shishu Mela ⇄ Shyamoli ⇄
+Kallyanpur ⇄ Technical ⇄ Gabtoli ⇄ Amin Bazar ⇄ Hemayetpur ⇄ Savar BRTC
+(বি আর টিসি বাস) Route: Motijheel ⇄ Gulistan ⇄ GPO ⇄ Paltan ⇄ Press Club
+⇄ High Court ⇄ Matsya Bhaban ⇄ Shahbag ⇄ Bangla Motor ⇄ Kawran Bazar ⇄
+Farmgate ⇄ Jahangir Gate ⇄ Mohakhali ⇄ Chairman Bari ⇄ Kakali ⇄ Banani ⇄
+Staff Road ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄
+Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄
+Abdullahpur ⇄ Tongi BRTC Bus (বি আর টিসি বাস) Route: Motijheel ⇄
+Gulistan ⇄ GPO ⇄ Paltan ⇄ Press Club ⇄ High Court ⇄ Matsya Bhaban ⇄
+Shahbag ⇄ Bangla Motor ⇄ Kawran Bazar ⇄ Farmgate ⇄ Khamar Bari -- Asad
+Gate -- College Gate ⇄ Shishu Mela ⇄ Shyamoli ⇄ Kallyanpur ⇄ Technical ⇄
+Gabtoli ⇄ Amin Bazar ⇄ Hemayetpur ⇄ Baipayl ⇄ Zirani Bazar ⇄ Chandra
+BRTC Bus (বি আর টিসি বাস) Route: Mohammadpur ⇄ Asad Gate ⇄ Khamar Bari
+-⇄ Farmgate ⇄ Jahangir Gate ⇄ Mohakhali ⇄ Wireless ⇄ Gulshan 1 ⇄ Badda
+Link Road ⇄ Uttar Badda ⇄ Shahjadpur ⇄ Bashtola ⇄ Notun Bazar ⇄ Nadda ⇄
+Bashundhara ⇄ Jamuna Future Park ⇄ Kuril Bishwa Road BRTC Bus (বি আর
+টিসি বাস) Route: Kamalapur ⇄ Motijheel ⇄ Gulistan ⇄ GPO ⇄ Paltan ⇄ Press
+Club ⇄ High Court ⇄ Matsya Bhaban ⇄ Shahbag ⇄ Bangla Motor ⇄ Kawran
+Bazar ⇄ Farmgate ⇄ Jahangir Gate ⇄ Mohakhali ⇄ Wireless ⇄ Gulshan 1 ⇄
+Badda Link Road ⇄ Uttar Badda ⇄ Shahjadpur ⇄ Bashtola ⇄ Notun Bazar ⇄
+Nadda ⇄ Bashundhara ⇄ Jamuna Future Park ⇄ Kuril Bishwa Road BRTC Bus
+(বি আর টিসি বাস) Route: Vulta ⇄ Kanchan Bridge ⇄ Nila Market ⇄ 300 Feet
+⇄ Bashundhara (300 Feet Gate) ⇄ Kuril Bishwa Road BRTC Bus (বি আর টিসি
+বাস) Route: Motijheel ⇄ Gulistan ⇄ GPO ⇄ Paltan ⇄ Kakrail ⇄ Shantinagar
+⇄ Malibagh Moor ⇄ Mouchak ⇄ Malibagh Railgate ⇄ Hazipara ⇄ Rampura Bazar
+⇄ Rampura Bridge ⇄ Merul ⇄ Badda ⇄ Shahjadpur ⇄ Bashtola ⇄ Notun Bazar ⇄
+Nadda ⇄ Bashundhara ⇄ Jamuna Future Park ⇄ Kuril Bishwa Road ⇄ Khilkhet
+⇄ Airport ⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building
+⇄ Abdullahpur BRTC Bus (বি আর টিসি বাস) Route: Mohammadpur ⇄ Shankar ⇄
+Star Kabab ⇄ Dhanmondi 15 ⇄ Jigatola ⇄ City College ⇄ Science Lab ⇄ Bata
+Signal ⇄ Shahbag ⇄ Matsya Bhaban ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄
+GPO ⇄ Gulistan ⇄ Motijheel BRTC Bus (বি আর টিসি বাস) Route: Gabtoli ⇄
+Mirpur 1 ⇄ Sony Cinema Hall ⇄ Mirpur 2 ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄ Purobi
+⇄ Kalshi ⇄ ECB Square ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄
+Airport ⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄
+Abdullahpur ⇄ Tongi ⇄ Mill Gate ⇄ Board Bazar ⇄ Gazipur Bypass ⇄ Gazipur
+Chourasta BRTC Articulated Bus (বি আর টিসি আরটিকুলেটেড বাস) Route:
+Balughat ⇄ Cantonment ⇄ Bijoy Sarani ⇄ Farmgate ⇄ Bangla Motor ⇄ Shahbag
+⇄ Paltan ⇄ Gulistan ⇄ Motijheel Cantonment Bus (ক্যান্টনমেন্ট বাস
+সার্ভিস) Route: Mirpur 14 ⇄ Mirpur 10 ⇄ Mirpur 2 ⇄ Sony Cinema Hall ⇄
+Mirpur 1 ⇄ Ansar Camp ⇄ Technical ⇄ Gabtoli ⇄ Amin Bazar ⇄ Hemayetpur ⇄
+Savar Cantonment Mini Service (ক্যান্টনমেন্ট মিনি বাস সার্ভিস) Route:
+Mirpur 14 ⇄ Kachukhet ⇄ Sainik Club ⇄ Kakali ⇄ Banani ⇄ Mohakhali
+Champion Bus (চ্যাম্পিয়ন বাস) Route: Vashantek ⇄ Mirpur 14 ⇄ Mirpur 10 ⇄
+Mirpur 2 ⇄ Sony Cenema Hall ⇄ Mirpur 1 ⇄ Ansar Camp ⇄ Technical ⇄
+Gabtoli City Link Bus (সিটি লিংক বাস) Route: Chittagong Road ⇄ Sign
+Board ⇄ Matuail ⇄ Rayerbag ⇄ Shonir Akhra ⇄ Jatrabari ⇄ Sayedabad ⇄
+Gulistan ⇄ GPO ⇄ Paltan ⇄ Press Club ⇄ High Court ⇄ Matsya Bhaban ⇄
+Shahbag ⇄ Bata Signal ⇄ Science Lab ⇄ City College ⇄ Jigatola ⇄
+Dhanmondi 15 ⇄ Star Kabab ⇄ Shankar ⇄ Mohammadpur ⇄ Bosila ⇄ Ghatar Char
+D Link Bus (ডি লিংক বাস) Route: Fulbaria ⇄ Chankhar Pul ⇄ Bakshi Bazar ⇄
+Azimpur ⇄ Nilkhet ⇄ New Market ⇄ City College ⇄ Kalabagan ⇄ Dhanmondi 32
+⇄ Dhanmondi 27 ⇄ Asad Gate ⇄ College Gate ⇄ Shishu Mela ⇄ Shyamoli ⇄
+Kallyanpur ⇄ Darussalam ⇄ Technical ⇄ Gabtoli ⇄ Amin Bazar ⇄ Hemayetpur
+⇄ Savar ⇄ Dhamra D One Transport Bus (ডি ওয়ান বাস) Route: Motijheel ⇄
+Dainik Bangla Moor ⇄ Paltan ⇄ Press Club ⇄ Matsya Bhaban ⇄ High Court ⇄
+Shahbag ⇄ Bangla Motor ⇄ Kawran Bazar ⇄ Farmgate ⇄ Asad Gate ⇄ College
+Gate ⇄ Shishu Mela ⇄ Shyamoli ⇄ Kallyanpur ⇄ Technical ⇄ Gabtoli ⇄ Amin
+Bazar ⇄ Nobinagar ⇄ Dhamrai ⇄ Kalampur Deepan Bus (দিপান বাস) Route:
+Tajmahal Road ⇄ Shankar ⇄ Dhanmondi 15 ⇄ Jigatola ⇄ City College ⇄
+Science Lab ⇄ Shahbag ⇄ Matsya Bhaban ⇄ Paltan ⇄ Gulistan ⇄ Motijheel ⇄
+Arambagh Desh Bangla Bus (দেশ বাংলা বাস) Route: Postagola ⇄ Dholairpar ⇄
+Jatrabari ⇄ Sayedabad ⇄ Mugdapara ⇄ Bashabo ⇄ Khilgaon ⇄ Malibagh ⇄
+Rampura Bazar ⇄ Rampura Bridge ⇄ Merul ⇄ Badda ⇄ Uttar Badda ⇄ Bashtola
+⇄ Notun Bazar ⇄ Nadda ⇄ Bashundhara ⇄ Jamuna Future Park ⇄ Kuril
+Chourasta ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄ Jashimuddin
+(Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄ Abdullahpur ⇄
+Kamarpara Dewan Bus (দেওয়ান বাস) Route: Azimpur ⇄ Eden College ⇄ Nilkhet
+⇄ New Market ⇄ Science Lab ⇄ City College ⇄ Science Lab ⇄ Katabon ⇄
+Shahbag ⇄ Bangla Motor ⇄ Kawran Bazar ⇄ Farmgate ⇄ Jahangir Gate ⇄
+Mohakhali ⇄ Wireless ⇄ Gulshan 1 ⇄ Badda ⇄ Badda Link Road ⇄ Uttar Badda
+⇄ Shahjadpur ⇄ Bashtola ⇄ Notun Bazar ⇄ Nadda ⇄ Bashundhara ⇄ Jamuna
+Future Park ⇄ Kuril Bishwa Road Dhakar Chaka Bus (ঢাকার চাকা বাস) Route:
+Police Plaza ⇄ Gulshan 1 ⇄ Gulshan 2 Type: Sitting Service (Ticket
+System) Dhakar Chaka Bus (ঢাকার চাকা বাস) Route: Banani ⇄ Gulshan 2 ⇄
+Notun Bazar Type: Sitting Service (Ticket System) Dhaka Metro Service
+(ঢাকার মেট্রো সার্ভিস বাস) Route: Mirpur 1 ⇄ Kallyanpur ⇄ Shyamoli ⇄
+Asad Gate ⇄ Shukrabad Kalabagan ⇄ Science Lab ⇄ New Market ⇄ Nilkhet ⇄
+Azimpur Dhaka Paribahan (ঢাকা পরিবহন বাস) Route: Gulistan ⇄ Shahbag ⇄
+Farmgate ⇄ Banani ⇄ Uttara ⇄ Gazipur ⇄ Shib Bari Dipon (দিপোন বাস)
+Route: Tajmahal Road ⇄ Salimullah Road ⇄ Jakir Hossen Road ⇄ Shankar ⇄
+Star Kabab ⇄ Dhanmondi 15 ⇄ Jigatola ⇄ City College ⇄ Science Lab ⇄ Bata
+Signal ⇄ Shahbag ⇄ Matsya Bhaban ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄
+Baitul Mukarram ⇄ Gulistan ⇄ Motijheel ⇄ Arambagh Dip Paribahan (দ্বীপ
+পরিবহন বাস) Route: Azimpur ⇄ City College ⇄ Kolabagan ⇄ Panthopoth ⇄
+Karwan Bazar ⇄ Nabisco ⇄ Gulshan Link Road ⇄ Gulshan 1 ⇄ Kuril Bissho
+Road Dishari Bus (দিসারি বাস) Route: Chiriyakhana ⇄ Mirpur 1 ⇄ Ansar
+Camp ⇄ Technical ⇄ Kallyanpur ⇄ Shyamoli ⇄ Shishu Mela ⇄ College Gate ⇄
+Asad Gate ⇄ Khamar Bari ⇄ Farmgate ⇄ Kawran Bazar ⇄ Bangla Motor ⇄
+Shahbag ⇄ Matsya Bhaban ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄ GPO ⇄ Golap
+Shah Mazar ⇄ Naya Bazar ⇄ Babubazar ⇄ Keraniganj Elite Bus (এলিট বাস)
+Route: Agargaon ⇄ Taltola ⇄ Shewrapara ⇄ Kazipara ⇄ Mirpur 10 ⇄ Mirpur
+11 ⇄ Purobi ⇄ Pallabi ⇄ Kalshi ⇄ Kuril Bishwa Road ⇄ Airport ⇄
+Jashimuddin (Uttara) ⇄ Rajlakshmi House Building ⇄ Abdullahpur ETC Bus
+(ইটিসি বাস) Route: Golap Shah Mazar ⇄ Shahbag ⇄ Bangla Motor ⇄ Farmgate
+⇄ Agargaon ⇄ Shewrapara ⇄ Kazipara ⇄ Mirpur 10 ⇄ Pallabi ⇄ Mirpur 12 ETC
+Transport (ইটিসি ট্রান্সপোর্ট বাস) Route: Golap Shah Mazar ⇄ GPO ⇄
+Paltan ⇄ Press Club ⇄ High Court ⇄ Matsya Bhaban ⇄ Shahbag ⇄ Bangla
+Motor ⇄ Kawran Bazar ⇄ Farmgate ⇄ Khamar Bari ⇄ Agargaon ⇄ Taltola ⇄
+Shewrapara ⇄ Kazipara ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄ Purobi ⇄ Pallabi ⇄
+Mirpur 12 Type: Sitting Service Everest Paribahan (এভারেস্ট পরিবহন বাস)
+Route: Rupnagar Abashik ⇄ Mirpur 2 ⇄ Mirpur 1 ⇄ Khamar Bari Farmgate ⇄
+Gulistan ⇄ Keraniganj Falgun Art Transport (ফাল্গুন আর্ট ট্রান্সপোর্ট
+প্রাইভেট লিমিটেড বাস) Route: Azimpur ⇄ Nilkhet ⇄ New Market ⇄ Science
+Lab ⇄ Bata Signal ⇄ Katabon ⇄ Shahbag ⇄ Motso Vobon ⇄ Kakrail ⇄
+Shantinagar ⇄ Malibagg Mor ⇄ Mouchak ⇄ Malibagh Rail Gate ⇄ Rampura
+Bazar ⇄ Rampura Bridge ⇄ Merul ⇄ Madhya Badda ⇄ Badda ⇄ Shahjadpur ⇄
+Natun Bazar ⇄ Nadda ⇄ Bashundhara ⇄ Jamuna Future Park ⇄ Kuril Bissho
+Road ⇄ Khilkhet ⇄ Airport ⇄ Rajlakshmi ⇄ Uttara House Building First Ten
+Bus (ফার্স্ট টেন বাস) Route: Vashantek ⇄ Mirpur 14 ⇄ Mirpur 10 ⇄ Mirpur
+2 ⇄ Sony Cenema Hall ⇄ Mirpur 1 ⇄ Ansar Camp ⇄ Technical ⇄ Gabtoli FTCL
+Bus (এফটিসিএল বাস) Route: Mohammadpur ⇄ Shankar ⇄ Star Kabab ⇄ Jigatola
+⇄ City College ⇄ Science Lab ⇄ Bata Signal ⇄ Shahbag ⇄ Matsya Bhaban ⇄
+High Court ⇄ Press Club ⇄ Paltan ⇄ GPO ⇄ Gulistan ⇄ Sayedabad ⇄ Janapath
+Moor ⇄ Jatrabari ⇄ Shonir Akhra ⇄ Rayerbag ⇄ Matuail ⇄ Sign Board ⇄
+Chittagong Road FTCL Bus (এফটিসিএল বাস) Route: Mohammadpur ⇄ Shankar ⇄
+Dhanmondi 15 ⇄ Jigatola ⇄ City College ⇄ Science Lab ⇄ Shahbag ⇄ Matsya
+Bhaban ⇄ Paltan ⇄ Gulistan ⇄ Motijheel ⇄ Arambagh Gazipur Paribahan
+(গাজীপুর পরিবহন বাস) Route: Motijheel ⇄ Paltan ⇄ Kakrail ⇄ Shantinagar ⇄
+Malibagh Moor ⇄ Mouchak ⇄ Mogbazar ⇄ Nabisco ⇄ Mohakhali ⇄ Chairman Bari
+⇄ Sainik Club ⇄ Kakali ⇄ Banani ⇄ Staff Road ⇄ MES ⇄ Shewra ⇄ Kuril
+Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄
+Azampur ⇄ House Building ⇄ Abdullahpur ⇄ Tongi ⇄ Station Road ⇄ Mill
+Gate ⇄ Board Bazar ⇄ Gazipur Chourasta ⇄ Shib Bari Type: Half-Sitting
+Service Grameen Bus (গ্রামীণ বাস) Route: Mirpur 14 ⇄ Mirpur 10 ⇄ Mirpur
+2 ⇄ Sony Cinema Hall ⇄ Mirpur 1 ⇄ Ansar Camp ⇄ Technical ⇄ Gabtoli
+Grameen Suveccha (গ্রামীণ শুভেচ্ছা বাস) Route: Fulbaria ⇄ Chankhar Pul ⇄
+Bakshi Bazar ⇄ Azimpur ⇄ Nilkhet ⇄ New Market ⇄ City College ⇄ Kalabagan
+⇄ Dhanmondi 32 ⇄ Dhanmondi 27 ⇄ Asad Gate ⇄ College Gate ⇄ Shishu Mela ⇄
+Shyamoli ⇄ Kallyanpur ⇄ Darussalam ⇄ Technical ⇄ Gabtoli ⇄ Amin Bazar ⇄
+Hemayetpur ⇄ Savar ⇄ Baipayl ⇄ Zirani Bazar ⇄ Nandan Park ⇄ Chandra
+Green Anabil (গ্রীন অনাবিল বাস) Route: Chashara ⇄ Shibu Market ⇄ Jalkuri
+⇄ Sign Board ⇄ Matuail ⇄ Rayerbag ⇄ Shonir Akhra ⇄ Jatrabari ⇄ Sayedabad
+⇄ Mugdapara ⇄ Bashabo ⇄ Khilgaon ⇄ Malibagh Railgate ⇄ Hazipara ⇄
+Rampura Bazar ⇄ Rampura Bridge ⇄ Merul ⇄ Badda ⇄ Uttar Badda ⇄
+Shahjadpur ⇄ Bashtola ⇄ Notun Bazar ⇄ Nadda ⇄ Bashundhara ⇄ Jamuna
+Future Park ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄ Jashimuddin
+(Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄ Abdullahpur ⇄ Tongi ⇄
+Station Road ⇄ Mill Gate ⇄ Board Bazar ⇄ Gazipur Bypass ⇄ Gazipur
+Chourasta Type: Half Sitting Service Green Dhaka (গ্রীন ঢাকা বাস) Route:
+Motijheel ⇄ Gulistan ⇄ GPO ⇄ Paltan ⇄ Kakrail ⇄ Shantinagar ⇄ Malibagh
+Moor ⇄ Mouchak ⇄ Malibagh Railgate ⇄ Hazipara ⇄ Rampura Bazar ⇄ Rampura
+Bridge ⇄ Merul ⇄ Badda ⇄ Uttar Badda ⇄ Shahjadpur ⇄ Bashtola ⇄ Notun
+Bazar ⇄ Nadda ⇄ Bashundhara ⇄ Jamuna Future Park ⇄ Kuril Bishwa Road ⇄
+Khilkhet ⇄ Airport ⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House
+Building ⇄ Abdullahpur Type: Sitting Service (Ticket System) Gulshan
+Chaka (গুলশান চাকা বাস) Route: Banani ⇄ Gulshan 2 ⇄ Notun Bazar Type:
+Sitting Service (Ticket System) Hazi Transport (হাজি ট্রান্সপোর্ট বাস)
+Route: Mirpur 12 ⇄ Pallabi ⇄ Purobi ⇄ Mirpur 10 ⇄ Kazipara ⇄ Shewrapara
+⇄ Agargaon ⇄ Bijoy Sarani ⇄ Farmgate ⇄ Kawran Bazar ⇄ Bangla Motor ⇄
+Shahbag ⇄ Matsya Bhaban ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄ GPO ⇄
+Gulistan ⇄ Motijheel Himachal Bus (হিমাচল বাস) Route: Mirpur Sony Cinema
+Hall ⇄ Mirpur 10 ⇄ Kazipara ⇄ Shewrapara ⇄ Mohakhali ⇄ Gulshan 1 ⇄ Badda
+⇄ Rampura Bridge ⇄ Rampura Bazar ⇄ Khilgaon Khidma Hospital Himachal
+Suveccha (হিমাচল শুভেচ্ছা বাস) Route: Metro Hall ⇄ Chashara ⇄ Shibu
+Market ⇄ Jalkuri ⇄ Sign Board ⇄ Matuail ⇄ Rayerbag ⇄ Shonir Akhra ⇄
+Jatrabari ⇄ Janapath Moor ⇄ Gulistan ⇄ GPO ⇄ Paltan ⇄ Press Club ⇄ High
+Court ⇄ Matsya Bhaban ⇄ Shahbag ⇄ Bangla Motor ⇄ Kawran Bazar ⇄ Farmgate
+Bijoy Sarani ⇄ Agargaon ⇄ Taltola ⇄ Shewrapara ⇄ Kazipara ⇄ Mirpur 10 ⇄
+Mirpur 11 ⇄ Purobi Pallabi ⇄ Mirpur 12 Himalay Bus (হিমালয় বাস) Route:
+Madanpur ⇄ Jatrabari ⇄ Bangladesh Bank ⇄ Mogbazar Mohakhali ⇄ Tongi
+Type: Half-Sitting Service Itihash Bus (ইতিহাস বাস) Route: Mirpur 14 ⇄
+Mirpur 10 ⇄ Mirpur 2 ⇄ Sony Cinema Hall Mirpur 1 ⇄ Ansar Camp ⇄
+Technical ⇄ Gabtoli ⇄ Amin Bazar ⇄ Hemayetpur ⇄ Savar ⇄ Nobinagar
+Baipayl ⇄ Zirani Bazar ⇄ Nandan Park ⇄ Chandra J M Super Paribahan (জে
+এম সুপার পরিবহন বাস) Route: Jatrabari ⇄ Sayedabad ⇄ Mugdapara ⇄ Bashabo
+⇄ Khilgaon ⇄ Malibagh Railgate ⇄ Hazipara ⇄ Rampura Bazar ⇄ Rampura
+Bridge ⇄ Merul ⇄ Badda ⇄ Uttar Badda ⇄ Shahjadpur ⇄ Bashtola ⇄ Notun
+Bazar ⇄ Nadda ⇄ Bashundhara ⇄ Jamuna Future Park ⇄ Kuril Bishwa Road ⇄
+Khilkhet ⇄ Airport ⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House
+Building ⇄ Abdullahpur ⇄ Tongi Jabale Noor Paribahan (জাবালে নুর পরিবহন
+বাস) Route: Agargaon ⇄ Taltola ⇄ Shewrapara ⇄ Kazipara ⇄ Mirpur 10 ⇄
+Mirpur 11 ⇄ Purobi ⇄ Pallabi ⇄ Kalshi ⇄ Kuril Bishwa Road ⇄ Airport ⇄
+Jashimuddin (Uttara) ⇄ Rajlakshmi House Building ⇄ Abdullahpur Type:
+Half-Sitting Service Jabale Noor Paribahan (জাবালে নুর পরিবহন বাস)
+Route: Gabtoli ⇄ Mirpur 1 ⇄ Mirpur 10 ⇄ Kalshi ⇄ Kuril Flyover ⇄ Notun
+Bazar Type: Half-Sitting Service Janjabil Bus (জানযাবিল বাস) Route:
+Gabtoli ⇄ Beribadh Tin Rastar Moor ⇄ Rayer Bazar ⇄ Sikder Medical
+College ⇄ Hazaribag ⇄ Nawabganj ⇄ Kamrangirchar ⇄ Showari Ghat ⇄ Mitford
+Ghat ⇄ Babubazar Kamal Plus Paribahan (কামাল প্লাস পরিবহন বাস) Route:
+Chittagong Road ⇄ Sign Board ⇄ Matuail ⇄ Rayerbag ⇄ Shonir Akhra ⇄
+Jatrabari ⇄ Sayedabad ⇄ Gulistan ⇄ Chankhar Pul ⇄ Bakshi Bazar ⇄ Azimpur
+⇄ Nilkhet ⇄ New Market ⇄ Science Lab ⇄ City College ⇄ Jigatola ⇄
+Dhanmondi 15 ⇄ Star Kabab ⇄ Shankar ⇄ Mohammadpur ⇄ Ghatar Char Kanak
+Bus (কনক বাস) Route: Mirpur 1 ⇄ Sony Cinema Hall ⇄ Mirpur 2 ⇄ Mirpur 10
+⇄ Mirpur 11 ⇄ Purobi ⇄ Kalshi ⇄ ECB Square ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa
+Road ⇄ Khilkhet ⇄ Airport Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄
+House Building ⇄ Abdulla Khajababa Bus (খাজা বাবা বাস) Route: Jatrabari
+⇄ Sayedabad ⇄ Gulistan ⇄ GPO ⇄ Paltan ⇄ Press Club ⇄ High Court ⇄ Matsya
+Bhaban ⇄ Shahbag ⇄ Bangla Motor ⇄ Kawran Bazar ⇄ Farmgate ⇄ Khamar Bari
+⇄ Agargaon ⇄ Taltola ⇄ Shewrapara ⇄ Kazipara ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄
+Purobi ⇄ Pallabi ⇄ Mirpur 12 Kironmala Paribahan (কিরণমালা বাস) Route:
+Chiriyakhana ⇄ Mirpur 1 ⇄ Sony Cinema Hall ⇄ Rupnagar ⇄ Birulia ⇄
+Ashulia ⇄ Zirabo ⇄ Narshinghapur ⇄ Sura Bari ⇄ Kashimpur ⇄ Jarun ⇄
+Konabari Type: Semi-Sitting Service Labbayek Bus (লাব্বাইক বাস) Route:
+Savar ⇄ Hemayetpur ⇄ Amin Bazar ⇄ Gabtoli ⇄ Technical ⇄ Kallyanpur ⇄
+Shyamoli ⇄ Shishu Mela ⇄ College Gate ⇄ Asad Gate ⇄ Khamar Bari ⇄
+Farmgate ⇄ Kawran Bazar ⇄ Bangla Motor ⇄ Mogbazar ⇄ Mouchak ⇄ Malibagh
+Moor ⇄ Rajarbag ⇄ Khilgaon Flyover ⇄ Bashabo ⇄ Mugdapara ⇄ Manik Nagar ⇄
+Golapbag Chourasta ⇄ Sayedabad ⇄ Janapath Moor ⇄ Jatrabari ⇄ Kazla ⇄
+Shonir Akhra ⇄ Rayerbag ⇄ Matuail ⇄ Sign Board Type: Sitting Service
+(Check System) Lal Sabuj (AC) Bus (লাল সবুজ এসি বাস) Route: Nandan Park
+⇄ Zirani Bazar ⇄ Baipayl ⇄ Nobinagar ⇄ Savar ⇄ Hemayetpur ⇄ Amin Bazar ⇄
+Gabtoli ⇄ Technical ⇄ Kallyanpur ⇄ Shyamoli ⇄ Shishu Mela ⇄ College Gate
+⇄ Asad Gate ⇄ Khamar Bari ⇄ Farmgate ⇄ Kawran Bazar ⇄ Bangla Motor ⇄
+Shahbag ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄ GPO ⇄ Gulistan ⇄ Motijheel
+Type: AC Bus, Sitting Service Lams Paribahan (লামস পরিবহন বাস) Route:
+Mirpur 12 ⇄ Pallabi ⇄ Purobi ⇄ Mirpur 11 ⇄ Mirpur 1 ⇄ Kazipara ⇄
+Shewrapara ⇄ Taltola ⇄ Agargaon ⇄ Bijoy Sarani ⇄ Farmgate ⇄ Kawran Bazar
+⇄ Bangla Motor ⇄ Shahbag ⇄ Matsya Bhaban ⇄ High Court ⇄ Press Club ⇄
+Paltan ⇄ Dainik Bangla Moor ⇄ Motijheel Malancha Bus (মালঞ্চ বাস) Route:
+Mohammadpur ⇄ Shankar ⇄ Star Kabab ⇄ Dhanmondi 15 ⇄ Jigatola ⇄ City
+College ⇄ Science Lab ⇄ Bata Signal ⇄ Shahbag ⇄ Matsya Bhaban ⇄ High
+Court ⇄ Press Club ⇄ Paltan ⇄ GPO ⇄ Gulistan ⇄ Dayaganj ⇄ Dhupkhola
+Manjil Express (মাঞ্জিল এক্সপ্রেস বাস) Route: Chittagong Road ⇄ Sign
+Board ⇄ Matuail ⇄ Rayerbag ⇄ Shonir Akhra ⇄ Jatrabari ⇄ Sayedabad ⇄
+Gulistan ⇄ GPO ⇄ Paltan ⇄ Kakrail ⇄ Malibagh Moor ⇄ Mouchak ⇄ Mogbazar ⇄
+Satrasta ⇄ Nabisco ⇄ Mohakhali ⇄ Chairman Bari ⇄ Banani ⇄ Kakali ⇄ Staff
+Road ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄
+Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄
+Abdullahpur Time: 5:30 AM -- 10:30 PM Meghla Transport (মেঘলা
+ট্রান্সপোর্ট বাস) Route: Kalabagan ⇄ Science Lab ⇄ Katabon ⇄ Bata Signal
+⇄ Shahbag ⇄ Matsya Bhaban ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄ GPO ⇄
+Gulistan ⇄ Sayedabad ⇄ Jatrabari ⇄ Shonir Akhra ⇄ Sign Board ⇄ Kanchpur
+⇄ Vulta Meshkat Bus (মেসকাত বাস) Route: Mohammadpur ⇄ Asad Gate ⇄ Khamar
+Bari ⇄ Farmgate ⇄ Bangla Motor ⇄ Shahbag ⇄ Matsya Bhaban ⇄ Paltan ⇄
+Dainik Bangla Moor ⇄ Motijheel ⇄ Ittefaq Moor Sayedabad ⇄ Jatrabari ⇄
+Shanir Akhra ⇄ Rayerbag ⇄ Matuail ⇄ Sign Board ⇄ Chittagong Road Midline
+Bus (মিডলাইন বাস) Route: Mohammadpur ⇄ Shankar ⇄ Star Kabab ⇄ Dhanmondi
+15 ⇄ Jigatola ⇄ City College ⇄ Science Lab ⇄ Bata Signal ⇄ Shahbag ⇄
+Matsya Bhaban ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄ Gulistan ⇄ Motijheel
+⇄ Arambagh ⇄ Kamalapur ⇄ Bashabo ⇄ Khilgaon Type: Semi-Sitting Service
+(Check System) Time: 6:00 AM -- 11:00 PM Mirpur Metro Services (মিরপুর
+মেট্রো সার্ভিস বাস) Route: Azimpur ⇄ Nilkhet ⇄ New Market ⇄ Science Lab
+⇄ City College ⇄ Kalabagan ⇄ Dhanmondi 32 ⇄ Dhanmondi 27 ⇄ Asad Gate ⇄
+College Gate ⇄ Shishu Mela ⇄ Shyamoli ⇄ Kallyanpur ⇄ Darussalam ⇄
+Technical ⇄ Bangla College ⇄ Tolarbag ⇄ Ansar Camp ⇄ Mirpur 1 Mirpur
+Link (মিরপুর লিংক বাস) Route: ECB Square ⇄ Purobi ⇄ Mirpur 11 ⇄ Mirpur
+10 ⇄ Kazipara Shewrapara ⇄ Agargaon ⇄ Khamar Bari ⇄ Dhanmondi 27 ⇄
+Dhanmondi 32 ⇄ City College ⇄ New Market Nilkhet ⇄ Azimpur Mirpur
+Mission (মিরপুর মিশন বাস) Route: Chiriyakhana ⇄ Mirpur 1 ⇄ Khamar Bari ⇄
+Farmgate ⇄ Press Club ⇄ Motijheel Mirpur Transport Service (মিরপুর
+ট্রান্সপোর্ট সার্ভিস বাস) Route: Gulistan ⇄ Golap Shah Mazar ⇄ GPO ⇄
+Paltan ⇄ Press Club ⇄ High Court ⇄ Matsya Bhaban ⇄ Shahbag ⇄ Bangla
+Motor ⇄ Kawran Bazar ⇄ Farmgate ⇄ Khamar Bari ⇄ Agargaon ⇄ Taltola ⇄
+Shewrapara ⇄ Kazipara ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄ Purobi ⇄ Pallabi ⇄
+Mirpur 12 Mirpur United Service (মিরপুর ইউনাইটেড সার্ভিস বাস) Route:
+Sadarghat ⇄- Ray Saheb Bazar ⇄ Naya Bazar ⇄ Golap Shah Mazar ⇄ GPO ⇄
+Paltan ⇄ Press Club ⇄ High Court ⇄ Matsya Bhaban ⇄ Shahbag ⇄ Bangla
+Motor ⇄ Kawran Bazar ⇄ Farmgate ⇄ Khamar Bari ⇄ Agargaon ⇄ Taltola ⇄
+Shewrapara ⇄ Kazipara ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄ Purobi ⇄ Pallabi ⇄
+Mirpur 12 MM Lovely (এম এম লাভলী বাস) Route: Savar ⇄ Hemayetpur ⇄ Amin
+Bazar ⇄ Gabtoli ⇄ Technical -⇄ Kallyanpur ⇄ Shyamoli ⇄ Shishu Mela ⇄
+College Gate ⇄ Asad Gate ⇄ Khamar Bari ⇄ Farmgate ⇄ Kawran Bazar ⇄
+Bangla Motor ⇄ Mogbazar ⇄ Mouchak ⇄ Malibagh Moor ⇄ Rajarbag ⇄ Khilgaon
+Flyover ⇄ Bashabo ⇄ Mugdapara ⇄ Manik Nagar ⇄ Golapbag Chourasta ⇄
+Sayedabad ⇄ Janapath Moor ⇄ Jatrabari ⇄ Kazla ⇄ Shonir Akhra ⇄ Rayerbag
+⇄ Matuail ⇄ Sign Board Type: Sitting Service (Check System) Modhumita
+Bus (মধুমিতা বাস) Route: Chiriyakhana ⇄ Sony Cinema Hall ⇄ Mirpur 2 ⇄
+Mirpur 1 ⇄ Ansar Camp ⇄ Technical ⇄ Kallyanpur ⇄ Shyamoli ⇄ Shishu Mela
+⇄ Agargaon ⇄ Bijoy Sarani ⇄ Jahangir Gate ⇄ Mohakhali ⇄ Wireless ⇄
+Gulshan 1 ⇄ Badda Link Road ⇄ Merul ⇄ Rampura Bridge ⇄ Banasree ⇄ Demra
+Staff Quarter Mohona Bus (মোহনা বাস) Route: Mirpur 14 ⇄ Mirpur 10 ⇄
+Mirpur 2 ⇄ Sony Cinema Hall ⇄ Mirpur 1 ⇄ Mazar Road ⇄ Konabari ⇄
+Rupnagar ⇄ Beribadh ⇄ Birulia ⇄ Ashulia ⇄ Zirabo ⇄ Fantasy Kingdom
+Moitri Bus (মৈত্রী বাস) Route: Mohammadpur ⇄ Shankar ⇄ Star Kabab ⇄
+Dhanmondi 15 ⇄ Jigatola ⇄ City College ⇄ Science Lab ⇄ Bata Signal ⇄
+Shahbag ⇄ Matsya Bhaban ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄ GPO ⇄
+Gulistan ⇄ Motijheel ⇄ Arambagh Moumita Bus (মৌমিতা বাস) Route: Chashara
+⇄ Shibu Market ⇄ Jalkuri ⇄ Sign Board ⇄ Matuail ⇄ Rayerbag ⇄ Shonir
+Akhra ⇄ Jatrabari ⇄ Sayedabad ⇄ Gulistan ⇄ Chankhar Pul ⇄ Bakshi Bazar ⇄
+Azimpur -- Nilkhet ⇄ New Market ⇄ City College ⇄ Kalabagan ⇄ Dhanmondi
+32 ⇄ Dhanmondi 27 ⇄ Asad Gate ⇄ College Gate ⇄ Shishu Mela ⇄ Shyamoli ⇄
+Kallyanpur ⇄ Darussalam ⇄ Technical ⇄ Gabtoli ⇄ Amin Bazar ⇄ Hemayetpur
+⇄ Savar ⇄ Baipayl ⇄ Zirani Bazar ⇄ Nandan Park ⇄ Chandra MTCL-2 Bus
+(এমটিসিএল ২ বাস) Route: Mohammadpur ⇄ Asad Gate ⇄ Dhanmondi 27 ⇄
+Dhanmondi 32 ⇄ Shukrabad ⇄ Kalabagan ⇄ City College ⇄ Science Lab ⇄ Bata
+Signal ⇄ Shahbag ⇄ Matsya Bhaban -- High Court ⇄ Press Club ⇄ Paltan ⇄
+GPO ⇄ Gulistan ⇄ Motijheel ⇄ Arambagh Kingdom Nur E Makka (নূর এ মক্কা
+বাস) Route: Chiriyakhana ⇄ Sony Cinema Hall ⇄ Mirpur 2 ⇄ Mirpur 10 ⇄
+Mirpur 11 ⇄ Purobi ⇄ Kalshi ⇄ ECB Square ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa
+Road ⇄ Jamuna Future Park ⇄ Bashundhara ⇄ Nadda ⇄ Notun Bazar ⇄ Bashtola
+⇄ Shahjadpur ⇄ Uttar Badda ⇄ Badda ⇄ Madhya Badda ⇄ Merul ⇄ Rampura
+Bridge ⇄ Rampura Bazar ⇄ Hazipara ⇄ Malibagh Railgate Type: Sitting
+Service (Check System) Time: 5:30 AM -- 10:30 PM Nabakali (নবকালি বাস)
+Route: Chiriyakhana ⇄ Mirpur 1 ⇄ Ansar Camp ⇄ Technical ⇄ Kallyanpur ⇄
+Shyamoli ⇄ Shishu Mela ⇄ College Gate ⇄ Asad Gate ⇄ Dhanmondi 27 ⇄
+Shukrabad ⇄ Dhanmondi 32 ⇄ Kalabagan ⇄ Science Lab ⇄ Katabon ⇄ Shahbag ⇄
+High Court ⇄ Fulbaria ⇄ Naya Bazar ⇄ Babubazar ⇄ Keraniganj New Vision
+(নিউ ভিশন বাস) Route: Chiriyakhana ⇄ Mirpur 1 ⇄ Ansar Camp ⇄ Technical ⇄
+Kallyanpur ⇄ Shyamoli ⇄ Shishu Mela ⇄ College Gate ⇄ Asad Gate ⇄ Khamar
+Bari ⇄ Farmgate ⇄ Kawran Bazar ⇄ Bangla Motor ⇄ Shahbag ⇄ High Court ⇄
+Press Club ⇄ Paltan ⇄ Dainik Bangla Moor ⇄ Motijheel Nilachol (নিলাচল
+বাস) Route: Chittagong Road ⇄ Sign Board ⇄ Matuail ⇄ Rayerbag ⇄ Shonir
+Akhra ⇄ Jatrabari ⇄ Sayedabad ⇄ Gulistan ⇄ Chankhar Pul ⇄ Bakshi Bazar ⇄
+Azimpur ⇄ Nilkhet ⇄ New Market ⇄ City College ⇄ Kalabagan ⇄ Dhanmondi 32
+⇄ Dhanmondi 27 ⇄ Asad Gate ⇄ College Gate ⇄ Shishu Mela ⇄ Shyamoli ⇄
+Kallyanpur ⇄ Darussalam ⇄ Technical ⇄ Gabtoli ⇄ Amin Bazar ⇄ Hemayetpur
+⇄ Savar ⇄ Nobinagar ⇄ Manikganj ⇄ Paturia Nishorgo
+
+(নিসর্গ বাস) Route: Mirpur 14 Bus Stand ⇄ Mirpur 10 ⇄ Kazipara ⇄
+Shewrapara ⇄ Taltola ⇄ Agargaon ⇄ Asad Gate ⇄ Shyamoli ⇄ Mohammadpur ⇄
+Shankar ⇄ Dhanmondi 15 ⇄ Jigatola ⇄ Science Lab ⇄ Dhaka College ⇄ New
+Market ⇄ Nilkhet ⇄ Eden College ⇄ Azimpur Omama International (ওমামা
+ইন্টারন্যাশনাল বাস) Route: Motijheel ⇄ Dainik Bangla Moor ⇄ Paltan ⇄
+Press Club ⇄ Matsya Bhaban ⇄ High Court ⇄ Shahbag ⇄ Bangla Motor ⇄
+Kawran Bazar ⇄ Farmgate ⇄ Jahangir Gate ⇄ Mohakhali ⇄ Chairman Bari ⇄
+Sainik Club ⇄ Banani ⇄ Kakali ⇄ Staff Road ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa
+Road ⇄ Khilkhet ⇄ Airport Time: 5:30 AM -- 10:30 PM One Transport (ওয়ান
+ট্রান্সপোর্ট বাস) Route: Nandan Park ⇄ Zirani Bazar ⇄ Baipayl ⇄
+Nobinagar ⇄ Savar ⇄ Hemayetpur ⇄ Amin Bazar ⇄ Gabtoli ⇄ Technical ⇄
+Kallyanpur ⇄ Shyamoli ⇄ Shishu Mela ⇄ College Gate ⇄ Asad Gate ⇄ Khamar
+Bari ⇄ Farmgate ⇄ Kawran Bazar ⇄ Bangla Motor ⇄ Shahbag ⇄ High Court ⇄
+Press Club ⇄ Paltan ⇄ GPO ⇄ Gulistan ⇄ Motijheel Pallabi Local Service
+(পল্লবী লোকাল সার্ভিস বাস) Route: Asad Gate ⇄ College Gate ⇄ Shishu Mela
+⇄ Shyamoli ⇄ Kallyanpur ⇄ Technical ⇄ Mirpur 1 ⇄ Sony Cinema Hall ⇄
+Mirpur 2 ⇄ Chalantika Moor ⇄ Mirpur 6 ⇄ Mirpur 11 ⇄ Mirpur 12 Time: 5:30
+AM -- 10:30 PM Pallabi Super (পল্লবী সুপার বাস) Route: Gabtoli ⇄
+Technical ⇄ Ansar Camp ⇄ Mirpur 1 ⇄ Sony Cinema Hall ⇄ Mirpur 2 ⇄ Mirpur
+10 ⇄ Mirpur 11 ⇄ Purobi ⇄ Kalshi ⇄ ECB Square ⇄ MES ⇄ Shewra ⇄ Kuril
+Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄
+Azampur ⇄ House Building ⇄ Abdullahpur ⇄ Kamarpara Paristhan (পরিস্থান
+বাস) Route: Bosila ⇄ Mohammadpur ⇄ Asad Gate ⇄ College Gate ⇄ Shyamoli ⇄
+Kallyanpur ⇄ Darussalam ⇄ Technical ⇄ Bangla College ⇄ Tolarbag ⇄ Ansar
+Camp ⇄ Mirpur 1 ⇄ Mirpur 2 ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄ Purobi ⇄ Kalshi ⇄
+ECB Square ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄
+Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ House Building ⇄ Abdullahpur Power
+Paribahan (পাওয়ার পরিবহন বাস) Route: Mirpur 14 ⇄ Mirpur 10 ⇄ Mirpur 2 ⇄
+Sony Cinema Hall ⇄ Mirpur 1 ⇄ Mazar Road ⇄ Konabari ⇄ Rupnagar ⇄
+Beribadh ⇄ Birulia ⇄ Ashulia ⇄ Zirabo ⇄ Narshinghapur ⇄ Sura Bari ⇄
+Kashimpur ⇄ Jarun ⇄ Konabari Prattay (প্রত্যয় বাস) Route: Gabtoli ⇄
+Beribadh Tin Rastar Moor ⇄ Rayer Bazar ⇄ Sikder Medical College ⇄
+Hazaribag ⇄ Nawabganj ⇄ Kamrangirchar ⇄ Showari Ghat ⇄ Mitford Ghat ⇄
+Babubazar Prochesta (প্রচেষ্টা বাস) Route: Maowa ⇄ Keraniganj ⇄
+Babubazar ⇄ Naya Bazar ⇄ Golap Shah Mazar ⇄ GPO ⇄ Paltan ⇄ Kakrail ⇄
+Shantinagar ⇄ Malibagh Moor ⇄ Mouchak ⇄ Malibagh Railgate ⇄ Hazipara ⇄
+Rampura Bazar ⇄ Rampura Bridge ⇄ Merul ⇄ Badda ⇄ Uttar Badda ⇄
+Shahjadpur ⇄ Bashtola ⇄ Notun Bazar ⇄ Nadda ⇄ Bashundhara ⇄ Jamuna
+Future Park ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄ Jashimuddin
+(Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄ Abdullahpur Projapati
+(প্রজাপতি বাস) Route: Bosila ⇄ Mohammadpur ⇄ Asad Gate ⇄ College Gate ⇄
+Shyamoli ⇄ Kallyanpur -- Darussalam ⇄ Technical ⇄ Bangla College ⇄ Ansar
+Camp ⇄ Mirpur 1 ⇄ Mirpur 2 Mirpur 10 ⇄ Mirpur 11 ⇄ Purobi ⇄ Kalshi ⇄ ECB
+Square ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄
+Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ House Building ⇄ Abdullahpur ⇄
+Kamarpara Provati Banasree (প্রভাতী বনশ্রী বাস) Route: Fulbaria ⇄ Golap
+Shah Mazar ⇄ GPO ⇄ Paltan ⇄ Kakrail ⇄ Shantinagar ⇄ Malibagh Moor ⇄
+Mogbazar ⇄ Satrasta ⇄ Nabisco ⇄ Mohakhali ⇄ Chairman Bari ⇄ Banani ⇄
+Kakali ⇄ Staff Road ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄
+Airport ⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄
+Abdullahpur ⇄ Tongi ⇄ Station Road ⇄ Mill Gate ⇄ Board Bazar ⇄ Gazipur
+Chourasta ⇄ Joydebpur ⇄ Sreepur ⇄ Baromi Purbachol Logistics and
+Transport (পূর্বাচল লজিস্টিকস বাস) Route: Vashantek ⇄ Mirpur 14 ⇄ Mirpur
+10 ⇄ Mirpur 2 ⇄ Sony Cinema Hall ⇄ Mirpur 1 ⇄ Ansar Camp ⇄ Technical ⇄
+Gabtoli ⇄ Amin Bazar ⇄ Hemayetpur ⇄ Savar ⇄ Baipayl ⇄ Zirani Bazar ⇄
+Nandan Park ⇄ Chandra Raida (রাইদা বাস) Route: Postagola ⇄ Dholairpar ⇄
+Jatrabari ⇄ Janapath Moor ⇄ Sayedabad ⇄ Mugdapara ⇄ Bashabo ⇄ Khilgaon ⇄
+Malibagh Railgate ⇄ Rampura Bazar ⇄ Rampura Bridge ⇄ Merul ⇄ Badda ⇄
+Uttar Badda ⇄ Bashtola ⇄ Notun Bazar ⇄ Nadda ⇄ Bashundhara ⇄ Jamuna
+Future Park ⇄ Kuril Chourasta ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄
+Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄ Dia Bari
+Type: Sitting Service (Check System) Time: 6:00 AM -- 11:00 PM Raja City
+Dhaka (রাজা সিটি বাস) Route: Postagola ⇄ Jurain ⇄ Dayaganj ⇄ Gulistan ⇄
+GPO ⇄ Paltan ⇄ Press Club ⇄ High Court ⇄ Shahbag ⇄ Bata Signal ⇄ Science
+Lab ⇄ City College ⇄ Jigatola ⇄ Dhanmondi 15 ⇄ Star Kabab ⇄ Shankar ⇄
+Mohammadpur ⇄ Bosila ⇄ Ghatar Char Rajanigandha Dhaka (রজনীগন্ধা বাস)
+Route: Chittagong Road ⇄ Sign Board ⇄ Matuail ⇄ Rayerbag ⇄ Shonir Akhra
+⇄ Jatrabari -⇄ Sayedabad ⇄ Gulistan ⇄ GPO ⇄ Paltan ⇄ Press Club ⇄ High
+Court ⇄ Shahbag ⇄ Bata Signal ⇄ Science Lab ⇄ Jigatola ⇄ Dhanmondi 15 ⇄
+Star Kabab ⇄ Shankar ⇄ Mohammadpur Rajdhani Super Dhaka (রাজধানী বাস)
+Route: Hemayetpur ⇄ Gabtoli ⇄ Technical ⇄ Ansar Camp ⇄ Mirpur 1 ⇄ Sony
+Cinema Hall ⇄ Mirpur 2 ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄ Purobi ⇄ Kalshi ⇄ ECB
+Square ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄ Jamuna Future Park ⇄
+Bashundhara ⇄ Nadda ⇄ Notun Bazar ⇄ Bashtola ⇄ Shahjadpur ⇄ Uttar Badda
+⇄ Badda ⇄ Madhya Badda ⇄ Merul ⇄ Rampura Bridge ⇄ Banasree ⇄ Demra Staff
+Quarter Ramjan Dhaka (রমযান বাস) Route: Gabtoli ⇄ Technical ⇄ Kallyanpur
+⇄ Shyamoli ⇄ Shishu Mela ⇄ College Gate ⇄ Asad Gate ⇄ Mohammadpur ⇄
+Shankar ⇄ Star Kabab ⇄ Dhanmondi 15 ⇄ Jigatola ⇄ City College ⇄ Science
+Lab ⇄ Bata Signal ⇄ Shahbag ⇄ Matsya Bhaban ⇄ Kakrail ⇄ Shantinagar ⇄
+Malibagh Moor ⇄ Mouchak ⇄ Malibagh Railgate ⇄ Hazipara ⇄ Rampura Bazar ⇄
+Rampura Bridge ⇄ Banasree ⇄ Demra Staff Quarter Robrob Dhaka ( রবরব বাস)
+Route: Gabtoli ⇄ Technical ⇄ Ansar Camp ⇄ Mirpur 1 ⇄ Mirpur 2 ⇄ Mirpur
+10 ⇄ Purobi ⇄ Kalshi ⇄ ECB Square ⇄ MES ⇄ Banani ⇄ Kakali ⇄ Gulshan 2 ⇄
+Gulshan 1 ⇄ Badda Link Road ⇄ Merul ⇄ Rampura Bridge ⇄ Banasree Rois
+Dhaka (রাইস বাস) Route: Mirpur Sony Cinema Hall ⇄ Mirpur 2 ⇄ Mirpur 10 ⇄
+Kazipara ⇄ Shewrapara ⇄ Agargaon ⇄ Mohakhali ⇄ Gulshan 1 ⇄ Badda ⇄
+Rampura Bridge ⇄ Banasree Rongdhonu Express Dhaka (রংধনু এক্সপ্রেস বাস)
+Route: Adabor ⇄ Mohammadpur ⇄ Shia Mosque ⇄ Shyamoli ⇄ College Gate ⇄
+Asad Gate ⇄ Kalabagan ⇄ Science Lab ⇄ Katabon ⇄ Bata Signal ⇄ Shahbag ⇄
+Kakrail ⇄ Fakirapul ⇄ Motijheel ⇄ Dayaganj ⇄ Postagola Runway Express
+Dhaka (রানওয়ে এক্সপ্রেস বাস) Route: Keraniganj ⇄ Kadamtali ⇄ Babubazar ⇄
+Naya Bazar ⇄ Golap Shah Mazar ⇄ GPO ⇄ Paltan ⇄ Press Club ⇄ High Court ⇄
+Matsya Bhaban ⇄ Shahbag ⇄ Bangla Motor ⇄ Kawran Bazar ⇄ Farmgate ⇄
+Agargaon ⇄ Shewrapara ⇄ Kazipara ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄ Mirpur 12 ⇄
+ECB Square Rupa Paribahan Dhaka (রুপা পরিবহন বাস) Route: Gabtoli ⇄
+Technical ⇄ Ansar Camp ⇄ Mirpur 1 ⇄ Sony CInema Hall ⇄ Mirpur 2 ⇄ Mirpur
+10 ⇄ Mirpur 14 ⇄ Vashantek Rupkotha Dhaka (রুপকথা বাস) Route: Gabtoli ⇄
+Mirpur 1 ⇄ Sony Cinema Hall ⇄ Mirpur 2 ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄ Purobi
+⇄ Kalshi ⇄ ECB Square ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄
+Airport ⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄
+Abdullahpur Safety Druti (সেফটি দ্রুতি বাস) Route: Mirpur 12 ⇄ Pallabi ⇄
+Purobi ⇄ Mirpur 11 ⇄ Mirpur 10 ⇄ Kazipara ⇄ Shewrapara ⇄ Taltola ⇄
+Agargaon ⇄ Khamar Bari ⇄ Dhanmondi 27 ⇄ Dhanmondi 32 ⇄ Kalabagan ⇄ City
+College ⇄ New Market ⇄ Nilkhet ⇄ Azimpur Sakalpa Transport (স্বকল্প
+ট্রান্সপোর্ট বাস) Route: Chiriyakhana ⇄ Mirpur 1 ⇄ Sony Cinema Hall ⇄
+Mirpur 2 ⇄ Mirpur 10 ⇄ Kazipara ⇄ Shewrapara ⇄ Agargaon ⇄ Bijoy Sarani ⇄
+Farmgate ⇄ Bangla Motor ⇄ Mogbazar ⇄ Malibagh Moor ⇄ Kamalapur Time:
+5:30 AM -- 10:30 PM Salsabil (ছালছাবিল বাস) Route: Postagola ⇄
+Dholairpar ⇄ Jatrabari ⇄ Sayedabad ⇄ Mugdapara ⇄ Bashabo ⇄ Khilgaon ⇄
+Malibagh Railgate ⇄ Rampura Bazar ⇄ Rampura Bridge ⇄ Merul ⇄ Badda ⇄
+Uttar Badda ⇄ Bashtola ⇄ Notun Bazar ⇄ Nadda ⇄ Bashundhara ⇄ Jamuna
+Future Park ⇄ Kuril Chourasta ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄
+Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄
+Abdullahpur ⇄ Tongi ⇄ Station Road ⇄ Mill Gate ⇄ Board Bazar ⇄ Gazipur
+Bypass ⇄ Gazipur Chourasta Salsabil (ছালছাবিল বাস) Route: Postagola ⇄
+Dholairpar ⇄ Jatrabari ⇄ Sayedabad ⇄ Mugdapara ⇄ Bashabo ⇄ Khilgaon ⇄
+Malibagh Railgate ⇄ Rampura Bazar ⇄ Rampura Bridge ⇄ Merul ⇄ Badda ⇄
+Uttar Badda ⇄ Bashtola ⇄ Notun Bazar ⇄ Nadda ⇄ Bashundhara ⇄ Jamuna
+Future Park ⇄ Kuril Chourasta ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄
+Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄
+Abdullahpur ⇄ Tongi ⇄ Station Road ⇄ Mill Gate ⇄ Board Bazar ⇄ Gazipur
+Bypass ⇄ Gazipur Chourasta Savar Paribahan (সাভার পরিবহন বাস) Route:
+Sadarghat ⇄ Golap Shah Mazar ⇄ GPO ⇄ Paltan ⇄ Press Club ⇄ High Court ⇄
+Matsya Bhaban ⇄ Shahbag ⇄ Science Lab ⇄ Kalabagan ⇄ Dhanmondi 32 ⇄
+Dhanmondi 27 ⇄ Asad Gate ⇄ College Gate ⇄ Shishu Mela ⇄ Shyamoli ⇄
+Kallyanpur ⇄ Darussalam ⇄ Technical ⇄ Gabtoli ⇄ Amin Bazar ⇄ Hemayetpur
+⇄ Savar ⇄ Baipayl ⇄ Zirani Bazar ⇄ Nandan Park Shadhin (স্বাধীন বাস)
+Route: Bosila ⇄ Mohammadpur ⇄ Asad Gate ⇄ Khamar Bari ⇄ Farmgate ⇄
+Kawran Bazar ⇄ Bangla Motor ⇄ Mogbazar ⇄ Mouchak ⇄ Malibagh Railgate ⇄
+Hazipara ⇄ Rampura Bazar ⇄ Rampura Bridge ⇄ Banasree ⇄ Demra Staff
+Quarter Shadhin Express (স্বাধীন এক্সপ্রেস বাস) Route: Mirpur 12 ⇄
+Pallabi ⇄ Purobi ⇄ Mirpur 11 ⇄ Mirpur 10 ⇄ Kazipara ⇄ Shewrapara ⇄
+Taltola ⇄ Agargaon ⇄ Khamar Bari ⇄ Farmgate ⇄ Kawran Bazar ⇄ Bangla
+Motor ⇄ Shahbag ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄ GPO ⇄ Golap Shah
+Mazar ⇄ Naya Bazar ⇄ Babubazar ⇄ Keraniganj ⇄ Kadamtali ⇄ Rajendrapur ⇄
+Maowa Shahria Enterprise (শাহরিয়া এন্টারপ্রাইজ বাস) Route: Gabtoli ⇄
+Technical ⇄ Kallyanpur ⇄ Shyamoli ⇄ Shishu Mela ⇄ College Gate ⇄ Asad
+Gate ⇄ Dhanmondi 27 ⇄ Dhanmondi 32 ⇄ Shukrabad ⇄ Kalabagan ⇄ City
+College ⇄ Science Lab ⇄ Katabon ⇄ Shahbag ⇄ Matsya Bhaban ⇄ Kakrail ⇄
+Fakirapul ⇄ Arambagh ⇄ Motijheel ⇄ Ittefaq Moor ⇄ Tikatuli ⇄ Dayaganj ⇄
+Gandaria ⇄ Jurain ⇄ Postagola Shatabdi (শতাব্দি বাস) Route: Motijheel ⇄
+Paltan ⇄ Kakrail ⇄ Malibagh Moor ⇄ Mouchak ⇄ Mogbazar ⇄ Satrasta ⇄
+Nabisco ⇄ Mohakhali ⇄ Chairman Bari ⇄ Banani ⇄ Kakali ⇄ Shewra ⇄ Kuril
+Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄
+Azampur ⇄ House Building ⇄ Abdullahpur ⇄ Kamarpara Shikhor Paribahan
+(শিখর পরিবহন বাস) Route: Mirpur 12 ⇄ Pallabi ⇄ Purobi ⇄ Mirpur 11 ⇄
+Mirpur 10 ⇄ Kazipara ⇄ Shewrapara ⇄ Taltola ⇄ Agargaon ⇄ Bijoy Sarani ⇄
+Farmgate ⇄ Kawran Bazar ⇄ Bangla Motor ⇄ Shahbag ⇄ Matsya Bhaban ⇄ High
+Court ⇄ Press Club ⇄ Paltan ⇄ GPO ⇄ Gulistan ⇄ Janapath Moor ⇄ Jatrabari
+Shikhor Paribahan (শিখর পরিবহন ) Route: Jatrabari ⇄ Sayedabad ⇄ Gulistan
+⇄ GPO ⇄ Paltan ⇄ Press Club ⇄ High Court ⇄ Matsya Bhaban ⇄ Shahbag ⇄
+Bangla Motor ⇄ Kawran Bazar ⇄ Farmgate ⇄ Bijoy Sarani ⇄ Agargaon ⇄ IDB ⇄
+Taltola ⇄ Shewrapara ⇄ Kazipara ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄ Pallabi ⇄
+Purobi ⇄ Mirpur 12 Suveccha (শুভেচ্ছা ) Route: Chittagong Road ⇄ Sign
+Board ⇄ Matuail ⇄ Rayerbag ⇄ Shonir Akhra ⇄ Jatrabari ⇄ Sayedabad ⇄
+Gulistan ⇄ Chankhar Pul ⇄ Bakshi Bazar ⇄ Dhakeshwari ⇄ Azimpur ⇄ Nilkhet
+⇄ New Market ⇄ City College ⇄ Kalabagan ⇄ Dhanmondi 32 ⇄ Dhanmondi 27 ⇄
+Asad Gate ⇄ College Gate ⇄ Shishu Mela ⇄ Shyamoli ⇄ Kallyanpur ⇄
+Darussalam ⇄ Technical ⇄ Gabtoli ⇄ Amin Bazar ⇄ Hemayetpur ⇄ Savar ⇄
+Nobinagar ⇄ Baipayl ⇄ Zirani Bazar ⇄ Nandan Park ⇄ Chandra Suvojatri
+(শুভযাত্রী ) Route: Fulbaria ⇄ Golap Shah Mazar ⇄ GPO ⇄ Paltan ⇄ Press
+Club ⇄ High Court ⇄ Matsya Bhaban ⇄ Shahbag ⇄ Bata Signal ⇄ Science Lab
+⇄ Kalabagan ⇄ Dhanmondi 32 ⇄ Dhanmondi 27 ⇄ Asad Gate ⇄ College Gate ⇄
+Shishu Mela ⇄ Shyamoli ⇄ Kallyanpur ⇄ Darussalam ⇄ Technical ⇄ Gabtoli ⇄
+Amin Bazar ⇄ Hemayetpur ⇄ Manikganj Siam Transport (সিয়াম ট্রান্সপোর্ট
+বাস) Route: Banasree ⇄ Rampura Bridge ⇄ Merul ⇄ Badda ⇄ Shahjadpur ⇄
+Bashtola ⇄ Notun Bazar ⇄ Nadda ⇄ Bashundhara ⇄ Jamuna Future Park ⇄
+Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄ Jashimuddin (Uttara) ⇄
+Rajlakshmi ⇄ Azampur ⇄ House Building ⇄ Abdullahpur ⇄ Kamarpara ⇄ Dhour
+⇄ Beribadh ⇄ Ashulia ⇄ Zirabo ⇄ Fantasy Kingdom ⇄ Jamgora ⇄ Shimultola ⇄
+Baipayl ⇄ Palli Bidyut ⇄ Savar Cantonment ⇄ Nobinagar Skyline (স্কাই
+লাইন বাস) Route: Sadarghat ⇄ Ray Saheb Bazar ⇄ Naya Bazar ⇄ Golap Shah
+Mazar ⇄ GPO ⇄ Paltan ⇄ Kakrail ⇄ Shantinagar ⇄ Malibagh Moor ⇄ Mouchak ⇄
+Nabisco ⇄ Mohakhali ⇄ Chairman Bari ⇄ Sainik Club ⇄ Banani ⇄ Kakali ⇄
+Staff Road ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄
+Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄
+Abdullahpur ⇄ Tongi ⇄ Station Road ⇄ Mill Gate ⇄ Board Bazar ⇄ Gazipur
+Chourasta Somota Paribahan (সমতা পরিবহন বাস) Route: Chittagong Road ⇄
+Sign Board ⇄ Matuail ⇄ Rayerbag ⇄ Shonir Akhra ⇄ Jatrabari ⇄ Sayedabad ⇄
+Gulistan ⇄ Chankhar Pul ⇄ Bakshi Bazar ⇄ Dhakeshwari ⇄ Azimpur ⇄ Nilkhet
+⇄ New Market ⇄ City College ⇄ Kalabagan ⇄ Dhanmondi 32 ⇄ Dhanmondi 27 ⇄
+Asad Gate ⇄ College Gate ⇄ Shishu Mela ⇄ Shyamoli ⇄ Kallyanpur ⇄
+Darussalam ⇄ Technical ⇄ Ansar Camp ⇄ Mirpur 1 ⇄ Rainkhola ⇄
+Chiriyakhana Somoy (সময় বাস) Route: Sign Board ⇄ Matuail ⇄ Rayerbag ⇄
+Shonir Akhra ⇄ Jatrabari ⇄ Sayedabad Janapath Moor ⇄ Gulistan ⇄ GPO ⇄
+Paltan ⇄ Press Club ⇄ High Court ⇄ Matsya Bhaban ⇄ Shahbag ⇄ Bangla
+Motor ⇄ Kawran Bazar ⇄ Farmgate ⇄ Bijoy Sarani ⇄ Agargaon ⇄ IDB ⇄
+Taltola ⇄ Shewrapara ⇄ Kazipara ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄ Pallabi ⇄
+Purobi ⇄ Mirpur 12 Somoy Niyantran (সময় নিয়ন্ত্রণ বাস) Route: Mirpur 12
+⇄ Pallabi ⇄ Purobi ⇄ Mirpur 11 ⇄ Mirpur 10 ⇄ Kazipara ⇄ Shewrapara ⇄
+Taltola ⇄ Agargaon ⇄ Bijoy Sarani ⇄ Farmgate ⇄ Kawran Bazar ⇄ Bangla
+Motor ⇄ Shahbag ⇄ Matsya Bhaban ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄ GPO
+⇄ Golap Shah Mazar ⇄ Naya Bazar ⇄ Babubazar ⇄ Keraniganj Super (সুপার
+বাস) Route: Gulistan ⇄ Shahbag ⇄ Farmgate ⇄ Shyamoli ⇄ Gabtoli ⇄ Savar ⇄
+Nobinagar Supravat (সুপ্রভাত বাস) Route: Victoria Park ⇄ Sadarghat ⇄ Ray
+Saheb Bazar ⇄ Golap Shah Mazar ⇄ GPO ⇄ Paltan ⇄ Kakrail ⇄ Shantinagar ⇄
+Malibagh Moor ⇄ Mouchak ⇄ Malibagh Railgate ⇄ Hazipara ⇄ Rampura Bazar ⇄
+Rampura Bridge ⇄ Merul ⇄ Badda ⇄ Shahjadpur ⇄ Bashtola ⇄ Notun Bazar ⇄
+Nadda ⇄ Bashundhara ⇄ Jamuna Future Park ⇄ Kuril Bishwa Road ⇄ Khilkhet
+⇄ Airport ⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building
+⇄ Abdullahpur ⇄ Tongi Swajan Paribahan (স্বজন পরিবহন বাস) Route: Savar ⇄
+Hemayetpur ⇄ Amin Bazar ⇄ Gabtoli ⇄ Technical ⇄ Kallyanpur ⇄ Shyamoli ⇄
+Shishu Mela ⇄ College Gate ⇄ Asad Gate ⇄ Khamar Bari ⇄ Farmgate ⇄ Kawran
+Bazar ⇄ Bangla Motor ⇄ Shahbag ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄ GPO
+⇄ Golap Shah Mazar ⇄ Naya Bazar ⇄ Ray Saheb Bazar ⇄ Sadarghat Talukdar
+(তালুকদার বাস) Route: Chiriyakhana ⇄ Mirpur 1 ⇄ Ansar Camp ⇄ Technical ⇄
+Kallyanpur ⇄ Shyamoli ⇄ Shishu Mela ⇄ College Gate ⇄ Asad Gate ⇄ Khamar
+Bari ⇄ Farmgate ⇄ Kawran Bazar ⇄ Bangla Motor ⇄ Mogbazar ⇄ Mouchak ⇄
+Malibagh Moor ⇄ Rajarbag ⇄ Khilgaon Flyover ⇄ Bashabo ⇄ Mugdapara ⇄
+Manik Nagar ⇄ Golapbag Chourasta ⇄ Sayedabad ⇄ Janapath Moor ⇄ Jatrabari
+⇄ Kazla ⇄ Shonir Akhra ⇄ Rayerbag ⇄ Matuail ⇄ Sign Board ⇄ Sanarpar ⇄
+Chittagong Road Tanjil Paribahan (তানজিল পরিবহন বাস) Route: Chiriyakhana
+⇄ Mirpur 1 ⇄ Ansar Camp ⇄ Technical ⇄ Kallyanpur ⇄ Shyamoli ⇄ Shishu
+Mela ⇄ College Gate ⇄ Asad Gate ⇄ Khamar Bari ⇄ Farmgate ⇄ Kawran Bazar
+⇄ Bangla Motor ⇄ Shahbag ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄ GPO ⇄
+Golap Shah Mazar ⇄ Naya Bazar ⇄ Ray Saheb Bazar ⇄ Sadarghat Time: 5:30
+AM -- 10:30 PM Taranga Plus (তরঙ্গ প্লাস বাস) Route: Mohammadpur Bus
+Stand ⇄ Shankar ⇄ Star Kabab ⇄ Dhanmondi 15 ⇄ Jigatola ⇄ City College ⇄
+Science Lab ⇄ Bata Signal ⇄ Shahbag ⇄ Matsya Bhaban ⇄ Kakrail ⇄
+Shantinagar ⇄ Malibagh Moor ⇄ Mouchak ⇄ Malibagh Railgate ⇄ Hazipara ⇄
+Rampura Bazar ⇄ Rampura Bridge ⇄ Banasree ⇄ South Banasree Tetulia
+(তেতুলিয়া বাস) Route: Shia Mosque ⇄ Japan Garden City ⇄ Ring road ⇄
+Adabor Shyamoli ⇄ Shishu Mela ⇄ Agargaon ⇄ Taltola ⇄ Shewrapara ⇄
+Kazipara ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄ Purobi ⇄ Pallabi ⇄ Kalshi ⇄ ECB
+Square ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄ Airport ⇄ Jashimuddin
+(Uttara) ⇄ Rajlakshmi ⇄ House Building ⇄ Abdullahpur Thikana (ঠিকানা
+বাস) Route: Sign Board ⇄ Matuail ⇄ Rayerbag ⇄ Shonir Akhra ⇄ Jatrabari ⇄
+Sayedabad ⇄ Gulistan ⇄ Chankhar Pul ⇄ Bakshi Bazar ⇄ Dhakeshwari ⇄
+Azimpur ⇄ Nilkhet ⇄ New Market ⇄ City College ⇄ Kalabagan ⇄ Dhanmondi 32
+⇄ Dhanmondi 27 ⇄ Asad Gate ⇄ College Gate ⇄ Shishu Mela ⇄ Shyamoli ⇄
+Kallyanpur ⇄ Darussalam ⇄ Technical ⇄ Gabtoli ⇄ Amin Bazar ⇄ Hemayetpur
+⇄ Savar ⇄ Baipayl ⇄ Zirani Bazar ⇄ Nandan Park ⇄ Chandra Thikana Express
+(ঠিকানা এক্সপ্রেস বাস) Route: Shonbari Sreenagar ⇄ Nimtola ⇄ Kuchimura ⇄
+Rajendrapur ⇄ Hasnabad ⇄ Postagola ⇄ Jurain ⇄ Dholairpar ⇄ Jatrabari ⇄
+Sayedabad ⇄ Gulistan ⇄ Chankhar Pul ⇄ Bakshi Bazar ⇄ Azimpur ⇄ Nilkhet ⇄
+New Market ⇄ City College ⇄ Kalabagan ⇄ Dhanmondi 32 ⇄ Dhanmondi 27 ⇄
+Asad Gate ⇄ College Gate ⇄ Shishu Mela ⇄ Shyamoli ⇄ Kallyanpur ⇄
+Darussalam ⇄ Technical ⇄ Gabtoli ⇄ Amin Bazar ⇄ Hemayetpur ⇄ Savar ⇄
+Baipayl ⇄ Zirani Bazar ⇄ Nandan Park ⇄ Chandra Titas (তিতাস বাস) Route:
+Chiriyakhana ⇄ Mirpur 1 ⇄ Gabtoli ⇄ Savar ⇄ Nobinagar Chandra Transilva
+(ট্রান্সিল্ভা বাস) Route: Mirpur 1 ⇄ Ansar Camp ⇄ Technical ⇄ Kallyanpur
+⇄ Shyamoli ⇄ Shishu Mela ⇄ College Gate ⇄ Asad Gate ⇄ Dhanmondi 27 ⇄
+Dhanmondi 32 ⇄ Kalabagan ⇄ Science Lab ⇄ Bata Signal ⇄ Shahbag ⇄ Matsya
+Bhaban ⇄ High Court ⇄ Press Club Paltan ⇄ GPO ⇄ Gulistan ⇄ Motijheel ⇄
+Sayedabad ⇄ Janapath Moor ⇄ Jatrabari Trust Transport Services (ট্রাষ্ট
+ট্রান্সপোর্ট বাস) Route: Mirpur 10 ⇄ Mirpur 13 ⇄ Mirpur 14 ⇄ Kachukhet ⇄
+Sainik Club ⇄ Banani Trust Transport Services (ট্রাষ্ট ট্রান্সপোর্ট বাস)
+Route: Mirpur 10 ⇄ Mirpur 13 ⇄ Mirpur 14 ⇄ Kachukhet ⇄ Workshop ⇄ Saudi
+Colony ⇄ Jahangir Gate ⇄ Farmgate ⇄ Kawran Bazar ⇄ Bangla Motor ⇄
+Shahbag Trust Transport Services (ট্রাষ্ট ট্রান্সপোর্ট বাস) Route:
+Mirpur DOHS ⇄ Kalshi ⇄ ECB Square ⇄ Garrison (Cantonment) ⇄ Adamjee
+School ⇄ Workshop ⇄ Saudi Colony ⇄ Jahangir Gate ⇄ Farmgate ⇄ Kawran
+Bazar ⇄ Bangla Motor ⇄ Shahbag ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄
+Dainik Bangla Moor ⇄ Motijheel Trust Transport Services (AC) (ট্রাষ্ট
+ট্রান্সপোর্ট বাস) Route: Mirpur DOHS ⇄ Kalshi ⇄ ECB Square ⇄ Garrison
+(Cantonment) ⇄ Adamjee School ⇄ Workshop ⇄ Saudi Colony ⇄ Jahangir Gate
+⇄ Farmgate ⇄ Kawran Bazar Turag (ট্রাষ্ট ট্রান্সপোর্ট বাস) Route:
+Jatrabari ⇄ Sayedabad ⇄ Mugdapara ⇄ Bashabo ⇄ Khilgaon ⇄ Malibagh Moor ⇄
+Rampura Bazar ⇄ Rampura Bridge ⇄ Merul ⇄ Badda ⇄ Uttar Badda ⇄ Bashtola
+⇄ Notun Bazar ⇄ Nadda ⇄ Bashundhara ⇄ Jamuna Future Park ⇄ Kuril
+Chourasta ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄ Jashimuddin
+(Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄ Abdullahpur ⇄ Tongi
+Victor Classic (ভিক্টর ক্লাসিক বাস) Route: Sadarghat ⇄ Ray Saheb Bazar ⇄
+Naya Bazar ⇄ Golap Shah Mazar ⇄ GPO ⇄ Paltan ⇄ Kakrail ⇄ Shantinagar ⇄
+Malibagh Moor ⇄ Mouchak ⇄ Malibagh Railgate ⇄ Hazipara ⇄ Rampura Bazar ⇄
+Rampura Bridge ⇄ Merul ⇄ Badda ⇄ Shahjadpur ⇄ Bashtola ⇄ Notun Bazar ⇄
+Nadda ⇄ Bashundhara ⇄ Jamuna Future Park ⇄ Kuril Bishwa Road ⇄ Khilkhet
+⇄ Airport ⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building
+⇄ Diabari Type: Semi-Sitting Service (Check System) Victor Paribahan
+(ভিক্টর পরিবহন বাস) Route: Sadarghat ⇄ Ray Saheb Bazar ⇄ Naya Bazar ⇄
+Golap Shah Mazar ⇄ GPO ⇄ Paltan ⇄ Kakrail ⇄ Shantinagar ⇄ Malibagh Moor
+⇄ Mouchak ⇄ Malibagh Railgate ⇄ Hazipara ⇄ Rampura Bazar ⇄ Rampura
+Bridge ⇄ Merul ⇄ Badda ⇄ Shahjadpur ⇄ Bashtola ⇄ Notun Bazar ⇄ Nadda ⇄
+Bashundhara ⇄ Jamuna Future Park ⇄ Kuril Bishwa Road Type: Semi-Sitting
+Service (Check System) Time: 6:30 AM -- 10:30 PM VIP 27 (ভিআইপি ২৭ বাস)
+Route: Azimpur ⇄ Nilkhet ⇄ New Market ⇄ City College ⇄ Kalabagan ⇄
+Banani ⇄ Kakali ⇄ MES ⇄ Shewra ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport
+⇄ Jashimuddin (Uttara) ⇄ Rajlakshmi ⇄ Azampur ⇄ House Building ⇄
+Abdullahpur ⇄ Tongi ⇄ Station Road ⇄ Mill Gate ⇄ Board Bazar ⇄ Gazipur
+Chourasta Welcome (ওয়েলকাম বাস) Route: Nandan Park ⇄ Zirani Bazar ⇄
+Baipayl ⇄ Nobinagar ⇄ Savar ⇄ Hemayetpur ⇄ Amin Bazar ⇄ Gabtoli ⇄
+Technical ⇄ Kallyanpur ⇄ Shyamoli ⇄ Shishu Mela ⇄ College Gate ⇄ Asad
+Gate ⇄ Khamar Bari ⇄ Farmgate ⇄ Kawran Bazar ⇄ Bangla Motor ⇄ Shahbag ⇄
+High Court ⇄ Press Club ⇄ Paltan ⇄ GPO ⇄ Gulistan ⇄ Motijheel Time: 5:30
+AM -- 10:30 PM Winner (উইনার বাস) Route: Azimpur ⇄ Eden College ⇄
+Nilkhet ⇄ New Market ⇄ Science Lab ⇄ City College ⇄ Kalabagan ⇄
+Panthapath ⇄ Kawran Bazar ⇄ Bot tola ⇄ Nabisco ⇄ Mohakhali ⇄ Wireless ⇄
+Gulshan 1 ⇄ Badda ⇄ Badda Link Road ⇄ Uttar Badda ⇄ Shahjadpur ⇄
+Bashtola ⇄ Notun Bazar ⇄ Nadda ⇄ Bashundhara ⇄ Jamuna Future Park ⇄
+Kuril Bishwa Road 13 No. Bus Route Dhaka (১৩নং বাস) Route: Mohammadpur ⇄
+Shankar ⇄ Star Kabab ⇄ Dhanmondi 15 ⇄ Jigatola ⇄ City College ⇄ Science
+Lab ⇄ New Market ⇄ Nilkhet ⇄ Azimpur 4 No. Alike Bus Route Dhaka (৪নং
+বাস) Route: Balughat ⇄ Signal ⇄ CMH ⇄ Garrison (Cantonment) ⇄ Adamjee
+College ⇄ Workshop ⇄ Jahangir Gate ⇄ Bijoy Sarani ⇄ Farmgate ⇄ Bangla
+Motor ⇄ Shahbag ⇄ Paltan ⇄ Gulistan ⇄ Motijheel 6 No. Bus Route Dhaka
+(৬নং বাস) Route: Kamalapur ⇄ Motijheel ⇄ Gulistan ⇄ GPO ⇄ Paltan ⇄
+Kakrail ⇄ Shantinagar ⇄ Malibagh Moor ⇄ Mouchak ⇄ Mogbazar ⇄ Kawran
+Bazar ⇄ Farmgate ⇄ Jahangir Gate ⇄ Bijoy Sarani ⇄ Mohakhali ⇄ Gulshan 1
+⇄ Gulshan 2 ⇄ Notun Bazar 6 No. Motijheel Banani Transport Bus Route
+Dhaka (৬নং মতিঝিল বনানী ট্রান্সপোর্ট বাস) Route: Kamalapur ⇄ Motijheel ⇄
+Gulistan ⇄ GPO ⇄ Paltan ⇄ Kakrail ⇄ Shantinagar ⇄ Malibagh Moor ⇄
+Mouchak ⇄ Mogbazar ⇄ Kawran Bazar ⇄ Farmgate ⇄ Jahangir Gate ⇄ Bijoy
+Sarani ⇄ Mohakhali ⇄ Gulshan 1 ⇄ Gulshan 2 ⇄ Notun Bazar 7 No. Bus Route
+Dhaka (৭নং বাস) Route: Gabtoli ⇄ Technical ⇄ Kallyanpur ⇄ Shyamoli ⇄
+Shishu Mela ⇄ College Gate ⇄ Asad Gate ⇄ Dhanmondi 27 ⇄ Dhanmondi 32 ⇄
+Kalabagan ⇄ Science Lab ⇄ Katabon ⇄ Shahbag ⇄ High Court ⇄ Press Club ⇄
+Paltan ⇄ GPO ⇄ Golap Shah Mazar ⇄ Gulistan ⇄ Naya Bazar ⇄ Ray Saheb
+Bazar ⇄ Sadarghat 8 No. Bus Route Dhaka (৮নং বাস) Route: Jatrabari ⇄
+Janapath Moor ⇄ Sayedabad ⇄ Motijheel ⇄ Dainik Bangla Moor ⇄ Paltan ⇄
+Press Club ⇄ Matsya Bhaban ⇄ High Court ⇄ Shahbag ⇄ Bangla Motor ⇄
+Kawran Bazar ⇄ Farmgate ⇄ Khamar Bari ⇄ Asad Gate ⇄ College Gate ⇄
+Shishu Mela ⇄ Shyamoli ⇄ Kallyanpur ⇄ Technical ⇄ Gabtoli 9 No. Bus
+Route Dhaka (৯নং বাস) Route: College Gate ⇄ Shishu Mela ⇄ Shyamoli ⇄
+Kallyanpur ⇄ Darussalam ⇄ Technical ⇄ Bangla College ⇄ Tolarbag ⇄ Ansar
+Camp ⇄ Mirpur 1 ⇄ Sony Cinema Hall ⇄ Mirpur 2 ⇄ Proshika Moor ⇄ Pallabi
+⇄ Mirpur 12
