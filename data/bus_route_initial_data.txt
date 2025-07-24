@@ -1,4 +1,3 @@
-Bus Name	Routes
 Achim Paribahan (আছিম পরিবহন)	
 ⇄ Gabtoli (গাবতলি) ⇄ Technical (টেকনিক্যাল) ⇄ Ansar Camp (আনসার ক্যাম্প) ⇄ Mirpur 1 (মিরপুর ১) ⇄ Sony Cinema Hall (সনি সিনেমা হল) ⇄ Mirpur 2 (মিরপুর ২) ⇄ Mirpur 10 (মিরপুর ১০) ⇄ Mirpur 11 (মিরপুর ১১) ⇄ Purobi (পুরবী) ⇄ Kalshi (কালশী) ⇄ ECB Square (ইসিবি স্কয়ার) ⇄ MES (এমইএস) ⇄ Shewra (শেওড়া) ⇄ Kuril Bishwa Road (কুড়িল বিশ্ব রোড) ⇄ Jamuna Future Park (যমুনা ফিউচার পার্ক) ⇄ Bashundhara (বসুন্ধরা) ⇄ Nadda (নদ্দা) ⇄ Notun Bazar (নতুন বাজার) ⇄ Bashtola (বাঁশতলা) ⇄ Shahjadpur (শাহজাদপুর) ⇄ Uttar Badda (উত্তর বাড্ডা) ⇄ Badda (বাড্ডা) ⇄ Madhya Badda (মধ্য বাড্ডা) ⇄ Merul Badda (মেরুল বাড্ডা) ⇄ Rampura Bridge (রামপুরা ব্রিজ) ⇄ Banasree (বনশ্রী) ⇄ Demra Staff Quarter (ডেমরা স্টাফ কোয়ার্টার)
 ⏰ Starting Time: 06:00 AM & Closing Time: 11:00 PM
